@@ -1,7 +1,7 @@
 bal'ukbar constructive grammar
 ==============================
 
-Version 0.1 (This is still a work in progress and not useable. Also these documents are by no means a formal description of the grammar, instead they are a dense definition of the language.)
+Version 0.1 (This is still a work in progress and not useable. Also these documents are by no means a formal description of the grammar, instead they are a dense definition of the language. There are large portions missing, outdate, wrong and whatever.)
 
 Introduction
 ------------

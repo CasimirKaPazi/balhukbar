@@ -11,7 +11,7 @@ V = a u i e   y     o
 | Nasal       | m        | n̼ (m̈)        | n        | ɲ (ń)   |       |         |
 | Trill       |          |              | r        |         |       |         |
 | Affricative |          |              |          | tɕ (c)  |       | h       |
-| Fricative   | β (v)     | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
+| Fricative   | β (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
 | Lateral     |          |              | l        |         |       |         |
 
 [c] is an allophone/in free variation with [tɕ]
@@ -58,7 +58,10 @@ n > n̼ / U_U, #_U
 pʰ > p (loose the remains of aspiration)
 mp > n̼d̼ / _U
 
+
 # Changes ?? > ??
+
+Orthography: Maybe write the glottal stop as < q > and use < ' > instead to mark stress. Depends on how important stress becomes for the grammar.
 
 Maybe establish a bi-syllabic root system using tone and infixes. Or create another language for it.
 Example derivations for **pa.ku**:
