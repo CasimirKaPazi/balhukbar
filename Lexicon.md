@@ -1,4 +1,5 @@
-# Lexicon
+Lexicon
+=======
 
 abervations used here:
 gram: gramaticalization

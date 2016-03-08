@@ -8,6 +8,13 @@ Introduction
 
 Bal'ukbar is a constructed language (conlang). To be more precise an engineered language.
 
+Here, have an example:
+
+**malan vo'ele cor nia vii huahua**  
+malan (vo('ele) cor (nia) vii (huahua))  
+Q.listener.is.topic towards.speaker-move to east like wind  
+"Will you go east to me, fast like the wind?"  
+
 While the conlang is very flexible and open to ongoing change and evolution there are some core properties that define it.
 
 * Every element of speech is optional.
@@ -31,8 +38,8 @@ So to say the language is "descriptive" in the meaning that things are not refer
 Structure of this documentation
 -------------------------------
 
-"Grammar" defines the latest state of the conlang.
-"Evolution" lists planed changes in the the order they will be applied.
+"Grammar" defines the latest state of the conlang.  
+"Evolution" lists planed changes in the the order they will be applied.  
 "Lexicon" lists all words not explained in the Grammar in no particular order.
 
 License
@@ -40,5 +47,5 @@ License
 
 Even though, according to my understanding, you can not license a language I want to explicitly state, that this language is in the public domain.
 
-This documentation is licenced under CC-BY-SA.
+This documentation is licenced under CC-BY-SA.  
 If anyone for some reason is using this conlang I also want to encourage them to publish their original writings too under a free and copyleft license.
