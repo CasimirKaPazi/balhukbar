@@ -38,9 +38,9 @@ So to say the language is "descriptive" in the meaning that things are not refer
 Structure of this documentation
 -------------------------------
 
-"Grammar" defines the latest state of the conlang.  
-"Evolution" lists planed changes in the the order they will be applied.  
-"Lexicon" lists all words not explained in the Grammar in no particular order.
+"[Grammar](Grammar.md)" defines the latest state of the conlang.  
+"[Evolution](Evolution.md)" lists planed changes in the the order they will be applied.  
+"[Lexicon](Lexicon.md)" lists all words not explained in the Grammar in no particular order.
 
 License
 -------
