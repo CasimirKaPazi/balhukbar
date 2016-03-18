@@ -1,8 +1,35 @@
 Grammar
 =======
 
+## Table of Contents
+1. [Phonology](#Phonology)  
+	1.1. [Phonemes](#Phonemes)  
+	1.2. [Syllable](#Syllable-Shape)  
+	1.3. [Vowel Groups](#Vowel-Groups)  
+2. [Word Classes](#Word-Classes)  
+	2.1. [Verbs](#Verbs)  
+	2.2. [Nouns](#Nouns)  
+	2.3. [Names](#Names)  
+3. [Morphology](#Morphology)  
+	3.1. [AUX-Verb](#AUX-Verb)  
+	3.2. [Allocutive](#Allocutive)  
+	3.3. [Pronouns](#Pronouns)  
+	3.4. [Perception](#Perception)  
+	3.5. [Singular](#Singular)  
+	3.6. [Abbreviation](#Abbreviation)  
+4. [Syntax](#Syntax)  
+	4.1. [Lists](#Lists)  
+	4.2. [Filters](#Filters)  
+	4.3. [Questions](#Questions)  
+5. [Numeral System](#Numeral-System)  
+
+<div id='Phonology'/>
 Phonology
 ---------
+
+<div id='Phonemes'/>
+
+### Phonemes
 
 |             | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal |
 | ----------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
@@ -11,22 +38,25 @@ Phonology
 | Nasal       | m        |              | n        |         |       |         |
 | Trill       |          |              | r        |         |       |         |
 | Affricative |          |              |          | tɕ (c)  |       | h       |
-| Fricative   | β (v)     |              | ʃ (s)    | ç (j)   |       |         |
+| Fricative   | β (v)    |              | ʃ (s)    | ç (j)   |       |         |
 | Lateral     |          |              | l        |         |       |         |
 
-|       | Front | Central   | Back  |
-| ----- |:-----:|:---------:|:-----:|
-| Close |   i   | y ~ ɨ ~ ɯ |   u   |
-| Mid   | ɛ ~ e |           | ɔ ~ o |
-| Open  |       |     a     |       |
+|       | Front | Central | Back  |
+| ----- |:-----:|:-------:|:-----:|
+| Close |   i   |  ɨ ~ ɯ  |   u   |
+| Mid   | ɛ ~ e |         | ɔ ~ o |
+| Open  |       |    a    |       |
 
 Writing is lowercase only.  
 < h > is silent word initial. Vowel preceding h are lengthened. < VhV > /VːV/.  
 Geminated consonants (e.g. pakku) are either lengthened or separated by copying the next vowel (e.g. pakuku).  
 All vowels can be long. Written by doubling e.g. "cii"  
-Vowel length is only distinctive in one syllabic words.  
-There are strong-weak pairs: m-n, p-b, k-g, '-h, c-j  
+Vowel length is only distinctive in monosyllabic words.  
 p-b k-g '-h are allophones in most cases. '-h are only distinctive word initial.  
+
+<div id='Syllable-Shape'/>
+
+### Syllable shape
 
 (C)V(R)  
 (C)VV  
@@ -57,6 +87,8 @@ V = a u i o y e
 Vː = aa uu ii oo yy ee  
 VV = ye yo ia ai au ua (ey eo oe oy iu ui)
 
+<div id='Vowel-Groups'/>
+
 ### Vowel groups
 
         y
@@ -67,30 +99,31 @@ VV = ye yo ia ai au ua (ey eo oe oy iu ui)
         a
 
 Vowels connected by lines can form a diphthong.  
+High to low and front to back combinations are more common.  
 This separates the vowels in two groups: a-u-i and o-y-e  
 The vowels of each group are more likely to appear together in a morpheme.
 
-
-Word structure
---------------
+<div id='Word-Classes'/>
+Word classes
+------------
 
 Word are mostly grouped within three bigger word classes:
 * Grammatical particles
- * Interrogations
- * Pronouns
- * Relationals
- * Grammatical markers
- * Auxiliary "verb"
- * Numbers
- * Filters
- * Directions
- * Time markers
- * ...
+  * Interrogations
+  * Pronouns
+  * Relationals
+  * Grammatical markers
+  * Auxiliary "verb"
+  * Numbers
+  * Filters
+  * Directions
+  * Time markers
+  * ...
 * Verbs
 * Adjectives-Nouns/Content-words
- * Abstract
- * Atmospheric
- * Structural
+  * Abstract
+  * Atmospheric
+  * Structural
 * (Personal Names)
 
 It is often possible to tell which class a word belongs to by looking at it.  
@@ -112,6 +145,8 @@ Except when a verb is in the process of being grammaticalized.
 
 ### Grammatical particles
 
+<div id='Verbs'/>
+
 ### Verbs
 
 Verbs only describe actions that result in one state at a time changing into another state in a later time.
@@ -128,6 +163,8 @@ Verbs can be derived from nouns by omitting all initial and final consonants and
 Because of the limitations of meaning, the derived meaning of the verb always is the action that is neccessary to create or become the noun.
 As an example the word **mama** "woman, mother" turns into **'ama** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
+<div id='Nouns'/>
+
 ### Adjectives-Nouns
 
 Content words serve both the role of adjectives and nouns.  
@@ -137,6 +174,8 @@ Adjectives can be abstract, atmospheric or structural. The distinction often is 
 * Atmospheric ones can link to a memory, a feeling, an image. e.g. hukbar
 * Structural describe a pattern, or fractal properties. They are between abstract and atmospheric adjectives.
 
+<div id='Names'/>
+
 ### Personal names
 
 Personal names can form nicknames by reduplicating the last syllable. ('amabery > ryry)  
@@ -145,18 +184,19 @@ Usually speakers describe persons just like they describe objects in the world.
 The personal name is something mostly used between people that know each other closer.  
 It is about as common to know someones name as it is in English to know someones nickname.
 
+<div id='Morphology'/>
+Morphology
+----------
 
-Grammar
--------
+<div id='AUX-Verb'/>
 
-
-### Aux verb
+### AUX-Verb
 
 |          |     | past (d) | past2   | nonpast  | gnomic |
 | -------- | --- | -------- | ------- | -------- | ------ |
 |          |     | -ii/ee   | -ia     | -aa/uu   | -yy    |
 | hearsay  | h-  | lii      | -       | laa      | lyy    |
-| infered  | r-  | ree      | ria     | ruu      | ryy    |
+| inferred | r-  | ree      | ria     | ruu      | ryy    |
 | exp. (d) | c-  | cii      | cia     | ciu      | cyy    |
 | que.     | m-  | mee      | mia     | maa      | myy    |
 | neg.     | v-n | vin      | -       | van      | vyn    |
@@ -168,10 +208,11 @@ past2: "continuous past" an event in the past with a continuous story to the pre
 non-past: including present, future, conditional.  
 gnomic: general relations that do not change over time.
 
+<div id='Allocutive'/>
 
-### Allocutive agreement
+### Allocutive
 
-The aux. verb can change depending on the situation the listener is in.  
+The aux. verb can change depending on the relation listener and speaker are in.  
 This has the use that  
 * The speaker pays attention to the role of the listener.
 * The listener knows that the speaker cares about them and their discussion.
@@ -181,41 +222,42 @@ This system is based on an idea Kirble developed for the conlang "Cavelan" and t
 
 The gnomic topic is omitted because the topic of a gnomic statement can not be a living being.
 
-|          |         |  Ø  | introduce  | topic  | listen |
-| -------- | ------- | --- | ---------- | ------ | ------ |
-|          |         |     | -VtVk      | -VprV  | -VsV   |
-| hearsay  | past    | lii | li 'ik     | li lin | lisi   |
-|          | past2   | -   | -          | -      | -      |
-|          | nonpast | laa | la 'ak     | la lan | lasa   |
-|          | gnomic  | lyy | ly 'yk     | ly lyn | -      |
-| infered  | past    | ree | re 'ek     | re len | rese   |
-|          | past2   | ria | ri tak     | ri lia | risa   |
-|          | nonpast | ruu | ru 'uk     | ru lun | rusu   |
-|          | gnomic  | ryy | ry 'yk     | ry lyn | -      |
-| exp.     | past    | cii | ci 'ik     | ci lin | cisi   |
-|          | past2   | cia | ci tak     | ci lia | cisa   |
-|          | nonpast | ciu | ci tuk     | ci liu | cisu   |
-|          | gnomic  | cyy | cy 'yk     | cy lyn | -      |
-| question | past    | mee | me 'ek     | me len | mese   |
-|          | past2   | mia | mi tak     | mi lia | misa   |
-|          | nonpast | maa | ma 'ak     | ma lan | masa   |
-|          | gnomic  | myy | my 'yk     | my lyn | -      |
+|          |         |  Ø  | introduce | topic   | listen |
+| -------- | ------- | --- | --------- | ------- | ------ |
+|          |         |     | ta-/to-   | C<V'>VV | CV<s>V |
+| isolated |         | paa | tapaa     | pa'aa   | pasi   |
+| hearsay  | past    | lii | talii     | li'ii   | lisi   |
+|          | past2   | -   | -         | -       | -      |
+|          | nonpast | laa | talaa     | la'aa   | lasa   |
+|          | gnomic  | lyy | tolyy     | -       | lysy   |
+| inferred | past    | ree | toree     | re'ee   | rese   |
+|          | past2   | ria | taria     | ri'ia   | risa   |
+|          | nonpast | ruu | taruu     | ru'uu   | rusu   |
+|          | gnomic  | ryy | toryy     | -       | rysy   |
+| exp.     | past    | cii | tacii     | ci'ii   | cisi   |
+|          | past2   | cia | tacia     | ci'ia   | cisa   |
+|          | nonpast | ciu | taciu     | ci'iu   | cisu   |
+|          | gnomic  | cyy | tocyy     | -       | cysy   |
+| question | past    | mee | tomee     | me'ee   | mese   |
+|          | past2   | mia | tamia     | mi'ia   | misa   |
+|          | nonpast | maa | tamaa     | ma'aa   | masa   |
+|          | gnomic  | myy | tomyy     | -       | mysy   |
 
 **Introduce**
 Listener is new to discussion or was not listening for a while. Maybe a vocative.  
-**matak tenpo**  
+**tamaa tenpo**  
 Q.NONPAST.INTRODUCE time  
 "Excuse me, what time is it?" or "Hey, what time?"
 
 **Listen**
 Listener is part of the discussion but not it's topic.  
-**cipra tenpo ny cee**  
+**cisa tenpo ny cee**  
 EXPERIENCE.PAST2.LISTEN time fraction two  
 "Let me tell you, it seemed like midnight." (ny cee -> half a day)
 
 **Topic**
 Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".  
-**mese 'enuma**  
+**me'ee 'enuma**  
 Q.PAST.TOPIC make.stuff.up  
 "Have you made this up?"
 
@@ -236,19 +278,26 @@ jyn lyy - jyn ryy - jyn cyy "knowledge leads to intellectual understanding leads
 | direct causation   | kia | kia falling kia breaking
 | systemic causation | jyn | jyn smoking jyn cancer
 
+<div id='Pronouns'/>
 
 ### Pronouns
 
-|                 | default | indivisible | divisible
-| --------------- | ------- | ----------- | ---------
-| **1p.exc**      | je      | jeky        | jeto
-| **1p.incl (d)** | bu      | buku        | buta
-| **self-exc**    | ge      | geky        | geto
+Persons are specified by clusivity.
 
-In speech you change between using both je and ge or only bu depending on the situation.
+|              | default | quotative |
+| ------------ | ------- | --------- |
+| listener-exc | jo/joky | jomo      |
+| other-exc    | bu/buku | bumu      |
+| speaker-exc  | ge/geky | geme      |
+| any/everyone | kyne    | -         |
 
+They don't distinguish by number. So je can be either "I" or "we.exclusive", ge is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
-### na-va-pe vo-ni
+As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Allocutive.
+
+<div id='Perception'/>
+
+### Perception
 
 na- va- and pe- are prefixes that can be added to adjectives, verbs and pronouns.  
 They show the speakers personal judgement of the object. Only in quotes it is used for other persons.  
@@ -269,10 +318,11 @@ Example:
 **nani'ai ne?**  
 "Do you know I like you?"  
 
+<div id='Reduplication'/>
 
 ### Reduplication
 
-Two types of redupliction are used to narrow or widen the meaning of a word.
+Two types of reduplication are used to narrow or widen the meaning of a word.
 
 **Partial**
 
@@ -297,58 +347,18 @@ gejgej 12 to 60
 Full reduplication of a word that contains partial reduplication leads to it's loss.  
 tatakena > takenatakena
 
+<div id='Singular'/>
 
-### "Singular" (outdated)
+### "Singular"
 
-Content words have no number, in best case they can be viewed as plural by default.  
-(For a singular or indefinite noun, prefix the phrase with "ny".  
-In the context of mathematical numbers "ny" expresses fractions.)
+Nouns have no number, in best case they can be viewed as plural by default.  
+It is possible to indicate that only one object is revered using a demonstrative and the number one.
+However, it is rarely used. It is better to thread nouns as numberless adjectives.
+**maa ge bat jen**
+Q DEM one what
+"What is this one thing?" 
 
-
-### Lists
-
-Words and lists can both be elements in a list.  
-Within a list all elements are interchangeable while the meaning remains the same.  
-**sivat selet kilin** = **sivat kilin selet** = **kilin selet sivat** = "fresh fractal leaflike"  
-An exception to this are verbs which apply to all preceding elements in a list.  
-In this abstract example the addition sign is a verb.  
-(1 2 3 +) = 6  
-(3 1 2 +) = 6  
-(3 1 + 2) = (4 2)  
-
-
-### Filters
-
-Every word can serve as a filter for a list.  
-Structure is f(l) where f() is the filter and l the list.  
-A filter reduces the broad/atmospheric meaning of a word to a more specific one.  
-No list as input is the same as every possible input.  
-**bal'ukbar**  
-bal(hukbar)  
-Every language aspect (=bal) of hukbar.  
-
-
-### Sentence structure
-
-**Asking for particular information**  
-jen = insito question word  
-**la jen 'akte**  
-"What/Who acted?"  
-
-**la 'akte vii jen**  
-"Something/someone acted in which way?"
-
-
-**Yes/No question**  
-**ge maa 'ai**  
-DEM Q-NONPAST experience.emotions  
-"Are you (acting) emotional?"  
-Possible answers:  
-* Confirm information: "ciu" - EXP-NONPAST  
-* Correct information: "ge ciu leilei" 1 EXP-NONPAST calm  
-* Lack of information: "maa (pye)" Q-NONPAST (previous statement)  
-* Negation: "van 'ai"  
-
+<div id='Abbreviation'/>
 
 ### Abbreviation/Contraction
 
@@ -370,8 +380,62 @@ CNV	> CN	word final
 C¹V.C¹V		> C¹VV	if propper dipthong otherwise CVR  
 
 
+<div id='Syntax'/>
+Syntax
+------
+
+<div id='Lists'/>
+
+### Lists
+
+Words and lists can both be elements in a list.  
+Within a list all elements are interchangeable while the meaning remains the same.  
+**sivat selet kilin** = **sivat kilin selet** = **kilin selet sivat** = "fresh fractal leaflike"  
+An exception to this are verbs which apply to all preceding elements in a list.  
+In this abstract example the addition sign is a verb.  
+(1 2 3 +) = 6  
+(3 1 2 +) = 6  
+(3 1 + 2) = (4 2)  
+
+<div id='Filters'/>
+
+### Filters
+
+Every word can serve as a filter for a list.  
+Structure is f(l) where f() is the filter and l the list.  
+A filter reduces the broad/atmospheric meaning of a word to a more specific one.  
+No list as input is the same as every possible input.  
+**bal'ukbar**  
+bal(hukbar)  
+Every language aspect (=bal) of hukbar.  
+
+<div id='Questions'/>
+
+### Questions
+
+**Asking for particular information**  
+jen = insito question word  
+**la jen 'akte**  
+"What/Who acted?"  
+
+**la 'akte vii jen**  
+"Something/someone acted in which way?"
+
+
+**Yes/No question**  
+**ge maa 'ai**  
+DEM Q-NONPAST experience.emotions  
+"Are you (acting) emotional?"  
+Possible answers:  
+* Confirm information: "ciu" - EXP-NONPAST  
+* Correct information: "ge ciu leilei" 1 EXP-NONPAST calm  
+* Lack of information: "maa (pye)" Q-NONPAST (previous statement)  
+* Negation: "van 'ai"  
+
+
+<div id='Numeral-System'/>
 Numeral system
-------------------
+--------------
 
 Very old description see:  
 https://www.reddit.com/r/Conculture/comments/35fkqd/the_least_common_multiple_numeral_system_used_in/
