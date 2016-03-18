@@ -13,9 +13,9 @@ My current plan is to develop it to a point where I can start learning it.
 
 Here, have an example:
 
-**malan vo'ele cor nia vii huahua**  
-/ma.lan βɔ.ʔɛ.lɛ tɕɔ nia viː ua.ua/  
-malan (vo('ele) cor (nia) vii (huahua))  
+**ma'aa vo'ele cor nia vii huahua**  
+/ma.ʔaa βɔ.ʔɛ.lɛ tɕɔ nia viː ua.ua/  
+ma'aa (vo('ele) cor (nia) vii (huahua))  
 Q.listener.is.topic towards.speaker-move to east like wind  
 "Will you come east to me, fast like the wind?"  
 
@@ -23,7 +23,7 @@ Q.listener.is.topic towards.speaker-move to east like wind
 Structure of this documentation
 -------------------------------
 
-"[Introduction](Introduction.md)" gives an overview over the intentions and philosophy and what makes it special.
+"[Introduction](Introduction.md)" gives an overview over the intentions and philosophy and what makes it special.  
 "[Grammar](Grammar.md)" defines the latest state of the conlang.  
 "[Evolution](Evolution.md)" lists planed changes in the the order they will be applied.  
 "[Lexicon](Lexicon.md)" lists all words not explained in the Grammar in no particular order.
