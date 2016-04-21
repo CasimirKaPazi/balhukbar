@@ -437,8 +437,31 @@ Possible answers:
 Numeral system
 --------------
 
-Very old description see:  
-https://www.reddit.com/r/Conculture/comments/35fkqd/the_least_common_multiple_numeral_system_used_in/
+The "least common multiple numeral system" is used. Be warned that this is very unwieldy to use.
+The original inspiration draws from the Sumerian and Akkadian bases 60 and 12. While they are quite unusual they have the useful property to have several denominators. 12 can be divided by 2, 3, 4, while 60 can be divided by 2, 3, 4, 5, 6. We can search for other such numbers, e.g. 6 which is the smallest number divisible by 2 and 3, 420 the smallest divisible by 2, 3, 4, 5, 6 and 7.  
+Picking up that pattern we create a list of the smallest numbers that are divisible by all integers from 1 to n. That is:
 
-Also:  
-https://oeis.org/wiki/LCM_numeral_system
+    1, 2, 6, 12, 60, 420, 820, 2520, 27720, 360360, 720720, . . .
+
+The series can be found on the online encyclopedia of integer series as [A051451](https://oeis.org/A051451).  
+
+If there are so many useful bases, which one should we choose for our numeral system? The answer is not in using a fixed radix system (like base 10 is) but a mixed radix. That means that every place has a different value, in this case the series above. It turns out that someone already thought about such a thing and gave it the name [LCM-numeral-system](https://oeis.org/wiki/LCM_numeral_system). The article on the OEIS wiki gives a comprehensive explanation which I spare to double here. In the following I assume you read it. The probably most important conclusion to draw is that;
+
+> This may be the "smallest" product-based numbering system that has a unique finite representation for every rational number.
+
+Russell Easterly, Oct 03 2001 As comment to the before mentioned series.
+
+This statement includes fractions. This means a fraction like 1/3 which in base ten is 0.333333... can be expressed as 0.02, which reads `0*1/2 + 2*1/6`. While the number 3 is represented as 11 which reads 1 * 2 + 1 * 1. In the effect expressing fractions is much easier and useful then in any fixed radix system, while expressing integers is quite harder.
+
+Now this is where it comes back to the language and it's culture. Where cultures with a standard base system (just about all cultures we know about) use mostly integers to talk about the world and the objects they find in it, the speakers of bal'ukbar use both, integers and fractions. This gives rise to the divisible-indivisible distinction. For every thing that is divisible in the way that smaller parts have the same quality - e.g. water, sand, stone, wood, time, place - fractions are used. Things that change it's properties by dividing - e.g. living things, a boule, body parts, most things crafted - are revered by integers.
+
+Therefor to talk about the time of day for example, instead of inventing smaller units called "hours" they talk about half a day, two sixth a day, one half and one twelvth a day etc.
+
+A number like 7829 (base 10) would be written as 30042021 (base LCM).
+
+    3*2520 + 0*840 + 0*420 + 4*60 + 2*12 + 0*6 + 2*2 + 1*1
+
+For big number it can happen however that the place value is bigger than 9. This would lead to confusion since it would not be apparent where a place starts and where it ends. In this case they are separated by ":". Using 360000 (base 10) as an example, it renders as `12:10:2:1:1:0:0:0:0;` We can shorten the zeros down to a representation of `12:10:2:1:1::::;` As you might have noticed it uses base ten numbers in this representation. This of course is just a convention of the romanization. In the culture going with the language there would be one symbol each for every possible step. We could also use the letters A, B, C, D... starting from 10, 11, 12, 13...  
+The ";" marks the switch from integers to fractions. The circle constant Tau 6.2831... (base 10) therefore is written as `100;01116126...` or `1::;:1:1:1:6:1:2:6:...`
+
+
