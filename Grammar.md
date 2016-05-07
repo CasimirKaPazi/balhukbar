@@ -46,8 +46,8 @@ Phonology
 
 |       | Front | Central | Back  |
 | ----- |:-----:|:-------:|:-----:|
-| Close |   i   |  ɨ ~ ɯ  |   u   |
-| Mid   | ɛ ~ e |         | ɔ ~ o |
+| Close |   i   |    ɨ    |   u   |
+| Mid   |   ɛ   |         |   ɔ   |
 | Open  |       |    a    |       |
 
 Writing is lowercase only.  
@@ -271,15 +271,14 @@ The idea for relationals is totally copied from [Kēlen](http://www.terjemar.net
 Go there to read more about the concept, idea and functions of relationals.  
 Relations can form arbitrary large chains. They can span across multiple sentences.  
 Each element is prefixed with the relational particle.  
-jyn lyy - jyn ryy - jyn cyy "knowledge leads to intellectual understanding leads to personal understanding"
 
 |                    |     | example |
-| ------------------ | --- | ------- |
-| existence          | la  | la moon la stars
-| change/states      | ti  | ti child ti teen ti adult
-| association        | no  | no house no tree no street
-| direct causation   | kia | kia falling kia breaking
-| systemic causation | jyn | jyn smoking jyn cancer
+| ------------------ | --- | ------- | ---
+| existence          | la  | la moon la stars | 
+| change/states      | ti  | ti child ti teen ti adult | 
+| association        | no  | no house no tree no street | -> See genitive
+| direct causation   | kia | kia falling kia breaking | 
+| systemic causation | jyn | jyn smoking jyn cancer | 
 
 
 <div id='Pronouns'/>
@@ -297,17 +296,18 @@ Persons are specified by clusivity.
 
 They don't distinguish by number. So je can be either "I" or "we.exclusive", ge is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
-As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Converation.
+As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Conversation.
 
 Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.QUOT.'" as opposed to reported speech "They said that they will help us."
 
 
-<div id='Perception'/>
+<div id='Affixes'/>
 
-### Perception
+### Affixes
 
-na- va- and pe- are prefixes that can be added to adjectives, verbs and pronouns.  
-They show the speakers personal judgement of the object. Only in quotes it is used for other persons.  
+-na -va and -pe are suffixes that can be added to adjectives, verbs and pronouns.  
+They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
+
 * na - attraction
 * va - neutral
 * pe - aversion
@@ -322,7 +322,7 @@ vo- and ni- can in a similar way be used to show the direction of a verb.
 * ni - away from the speaker, towards someone/something else
 
 Example:
-**nani'ai ne?**  
+**ni'aina ne?**  
 "Do you know I like you?"  
 
 
