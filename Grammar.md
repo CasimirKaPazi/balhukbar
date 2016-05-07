@@ -190,23 +190,26 @@ Morphology
 
 <div id='AUX-Verb'/>
 
-### AUX-Verb
+### AUX-Verb/Tense, Place and Evidence
 
-|          |     | past (d) | past2   | nonpast  | gnomic |
-| -------- | --- | -------- | ------- | -------- | ------ |
-|          |     | -ii/ee   | -ia     | -aa/uu   | -yy    |
-| hearsay  | h-  | lii      | -       | laa      | lyy    |
-| inferred | r-  | ree      | ria     | ruu      | ryy    |
-| exp. (d) | c-  | cii      | cia     | ciu      | cyy    |
-| que.     | m-  | mee      | mia     | maa      | myy    |
-| neg.     | v-n | vin      | -       | van      | vyn    |
+Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
+* Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
+* Absence: The counterpart to presence in the way that it includes everything what is in the past or outside of the perception. It might be the contents of a story you heard as a child (hearsay) or hearing the story as a child (past). Absence can further be marked for the concrete evidence: Own past experience, hearsay and inference.
+* Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present.
+
+| Perception | evidence-tense | aux |
+| ---------- | -------------- | --- |
+| Presence   | exp present    | ciu |
+| Negation   | neg present    | van |
+| Continuous | exp near-past  | cia |
+| Absence    | exp past       | cii |
+|            | inf            | ruu |
+|            | hrs            | laa |
+|            | neg            | vir |
+| Question   | Q              | maa |
 
 "Negation" v-n is used to express the lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
-past: an event in the past  
-past2: "continuous past" an event in the past with a continuous story to the present.  
-non-past: including present, future, conditional.  
-gnomic: general relations that do not change over time.
 
 <div id='Allocutive'/>
 
