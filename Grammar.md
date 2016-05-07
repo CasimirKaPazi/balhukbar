@@ -12,7 +12,7 @@ Grammar
 	2.3. [Names](#Names)  
 3. [Morphology](#Morphology)  
 	3.1. [AUX-Verb](#AUX-Verb)  
-	3.2. [Allocutive](#Allocutive)  
+	3.2. [Conversation](#Conversation)  
 	3.3. [Pronouns](#Pronouns)  
 	3.4. [Perception](#Perception)  
 	3.5. [Singular](#Singular)  
@@ -211,57 +211,40 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 "Negation" v-n is used to express the lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
 
-<div id='Allocutive'/>
+<div id='Conversation'/>
 
-### Allocutive
+### Conversation
 
-The aux. verb can change depending on the relation listener and speaker are in.  
-This has the use that  
+The conversationmarkers show the relation listener and speaker are in. They can either precede the sentence as a whole or the aux. verb.
+Intended effects are:  
 * The speaker pays attention to the role of the listener.
 * The listener knows that the speaker cares about them and their discussion.
-* As some sort of vocative and topic marker.
+* As some sort of vocative and topic marker. To manage dicourse.
 
-This system is based on an idea Kirble developed for the conlang "Cavelan" and the way Basque does something similar.
+This system is inspired by an idea Kirble developed for the conlang "Cavelan" and the way Basque does something vaguely similar.
 
-The gnomic topic is omitted because the topic of a gnomic statement can not be a living being.
+* Vocative:  Listener is new to conversation or was not listening for a while.
+  **halo**
+* Listen: Listener is part of the conversation but not it's topic.
+  **ha**
+* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".
+  **tu**
+* Monologue: Holding a monologue, talking to one self, thinking out loud.
+  **mn**
 
-|          |         |  Ø  | introduce | topic   | listen |
-| -------- | ------- | --- | --------- | ------- | ------ |
-|          |         |     | ta-/to-   | C<V'>VV | CV<s>V |
-| isolated |         | paa | tapaa     | pa'aa   | pasi   |
-| hearsay  | past    | lii | talii     | li'ii   | lisi   |
-|          | past2   | -   | -         | -       | -      |
-|          | nonpast | laa | talaa     | la'aa   | lasa   |
-|          | gnomic  | lyy | tolyy     | -       | lysy   |
-| inferred | past    | ree | toree     | re'ee   | rese   |
-|          | past2   | ria | taria     | ri'ia   | risa   |
-|          | nonpast | ruu | taruu     | ru'uu   | rusu   |
-|          | gnomic  | ryy | toryy     | -       | rysy   |
-| exp.     | past    | cii | tacii     | ci'ii   | cisi   |
-|          | past2   | cia | tacia     | ci'ia   | cisa   |
-|          | nonpast | ciu | taciu     | ci'iu   | cisu   |
-|          | gnomic  | cyy | tocyy     | -       | cysy   |
-| question | past    | mee | tomee     | me'ee   | mese   |
-|          | past2   | mia | tamia     | mi'ia   | misa   |
-|          | nonpast | maa | tamaa     | ma'aa   | masa   |
-|          | gnomic  | myy | tomyy     | -       | mysy   |
-
-**Introduce**
-Listener is new to discussion or was not listening for a while. Maybe a vocative.  
-**tamaa tenpo**  
-Q.NONPAST.INTRODUCE time  
+Introduce  
+**halo maa tenpo**  
+VOC Q.NONPAST time  
 "Excuse me, what time is it?" or "Hey, what time?"
 
-**Listen**
-Listener is part of the discussion but not it's topic.  
-**cisa tenpo ny cee**  
-EXPERIENCE.PAST2.LISTEN time fraction two  
+Listen  
+**ha cia tenpo ny cee**  
+EXP.CONT.LISTEN time fraction two  
 "Let me tell you, it seemed like midnight." (ny cee -> half a day)
 
-**Topic**
-Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".  
-**me'ee 'enuma**  
-Q.PAST.TOPIC make.stuff.up  
+Topic  
+**tu maa 'enuma**  
+Q.PAST make.stuff.up  
 "Have you made this up?"
 
 
