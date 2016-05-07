@@ -24,9 +24,11 @@ Grammar
 	4.4. [Genitive](#Genitive)  
 5. [Numeral System](#Numeral-System)  
 
+
 <div id='Phonology'/>
 Phonology
 ---------
+
 
 <div id='Phonemes'/>
 
@@ -54,6 +56,7 @@ Geminated consonants (e.g. pakku) are either lengthened or separated by copying 
 All vowels can be long. Written by doubling e.g. "cii"  
 Vowel length is only distinctive in monosyllabic words.  
 p-b k-g '-h are allophones in most cases. '-h are only distinctive word initial.  
+
 
 <div id='Syllable-Shape'/>
 
@@ -88,6 +91,7 @@ V = a u i o y e
 Vː = aa uu ii oo yy ee  
 VV = ye yo ia ai au ua (ey eo oe oy iu ui)
 
+
 <div id='Vowel-Groups'/>
 
 ### Vowel groups/Vowel harmony
@@ -108,7 +112,9 @@ They can be seen as the remains of a former vowel harmony which is no longer pro
 Only vowels within a group can form diphthongs.  
 High to low and front to back combinations are more common.  
 
+
 <div id='Word-Classes'/>
+
 Word classes
 ------------
 
@@ -150,6 +156,7 @@ Except when a verb is in the process of being grammaticalized.
 
 ### Grammatical particles
 
+
 <div id='Verbs'/>
 
 ### Verbs
@@ -168,6 +175,7 @@ Verbs can be derived from nouns by omitting all initial and final consonants and
 Because of the limitations of meaning, the derived meaning of the verb always is the action that is neccessary to create or become the noun.
 As an example the word **mama** "woman, mother" turns into **'ama** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
+
 <div id='Nouns'/>
 
 ### Adjectives-Nouns
@@ -179,6 +187,7 @@ Adjectives can be abstract, atmospheric or structural. The distinction often is 
 * Atmospheric ones can link to a memory, a feeling, an image. e.g. hukbar
 * Structural describe a pattern, or fractal properties. They are between abstract and atmospheric adjectives.
 
+
 <div id='Names'/>
 
 ### Personal names
@@ -189,9 +198,11 @@ Usually speakers describe persons just like they describe objects in the world.
 The personal name is something mostly used between people that know each other closer.  
 It is about as common to know someones name as it is in English to know someones nickname.
 
+
 <div id='Morphology'/>
 Morphology
 ----------
+
 
 <div id='AUX-Verb'/>
 
@@ -200,7 +211,7 @@ Morphology
 Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
 * Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
 * Absence: The counterpart to presence in the way that it includes everything what is in the past or outside of the perception. It might be the contents of a story you heard as a child (hearsay) or hearing the story as a child (past). Absence can further be marked for the concrete evidence: Own past experience, hearsay and inference.
-* Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present.
+* Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present. As abbreviation "CONT" is used in this document.
 
 | Perception | evidence-tense | aux |
 | ---------- | -------------- | --- |
@@ -216,11 +227,12 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 "Negation" v-n is used to express the lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
 
+
 <div id='Conversation'/>
 
 ### Conversation
 
-The conversationmarkers show the relation listener and speaker are in. They can either precede the sentence as a whole or the aux. verb.
+The conversation markers show the relation listener and speaker are in. They can either precede the sentence as a whole or the aux. verb.
 Intended effects are:  
 * The speaker pays attention to the role of the listener.
 * The listener knows that the speaker cares about them and their discussion.
@@ -228,13 +240,13 @@ Intended effects are:
 
 This system is inspired by an idea Kirble developed for the conlang "Cavelan" and the way Basque does something vaguely similar.
 
-* Vocative:  Listener is new to conversation or was not listening for a while.
+* Vocative:  Listener is new to conversation or was not listening for a while.  
   **halo**
-* Listen: Listener is part of the conversation but not it's topic.
+* Listen: Listener is part of the conversation but not it's topic.  
   **ha**
-* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".
+* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".  
   **tu**
-* Monologue: Holding a monologue, talking to one self, thinking out loud.
+* Monologue: Holding a monologue, talking to one self, thinking out loud.  
   **mn**
 
 Introduce  
@@ -244,16 +256,16 @@ VOC Q.NONPAST time
 
 Listen  
 **ha cia tenpo ny cee**  
-EXP.CONT.LISTEN time fraction two  
+LISTEN EXP.CONT.LISTEN time fraction two  
 "Let me tell you, it seemed like midnight." (ny cee -> half a day)
 
 Topic  
 **tu maa 'enuma**  
-Q.PAST make.stuff.up  
+TOP.2 Q.PAST make.stuff.up  
 "Have you made this up?"
 
 
-### Relationals (outdated, will be mostly removed)
+### Relationals (outdated, will be merged into the auxiliary verb)
 
 The idea for relationals is totally copied from [Kēlen](http://www.terjemar.net/kelen.php).  
 Go there to read more about the concept, idea and functions of relationals.  
@@ -269,6 +281,7 @@ jyn lyy - jyn ryy - jyn cyy "knowledge leads to intellectual understanding leads
 | direct causation   | kia | kia falling kia breaking
 | systemic causation | jyn | jyn smoking jyn cancer
 
+
 <div id='Pronouns'/>
 
 ### Pronouns
@@ -277,14 +290,17 @@ Persons are specified by clusivity.
 
 |              | default | quotative |
 | ------------ | ------- | --------- |
-| listener-exc | jo/joky | jomo      |
+| listener-exc | ja/jaky | jama      |
 | other-exc    | bu/buku | bumu      |
 | speaker-exc  | ge/geky | geme      |
 | any/everyone | kyne    | -         |
 
 They don't distinguish by number. So je can be either "I" or "we.exclusive", ge is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
-As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Allocutive.
+As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Converation.
+
+Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.QUOT.'" as opposed to reported speech "They said that they will help us."
+
 
 <div id='Perception'/>
 
@@ -308,6 +324,7 @@ vo- and ni- can in a similar way be used to show the direction of a verb.
 Example:
 **nani'ai ne?**  
 "Do you know I like you?"  
+
 
 <div id='Reduplication'/>
 
@@ -338,6 +355,7 @@ gejgej 12 to 60
 Full reduplication of a word that contains partial reduplication leads to it's loss.  
 tatakena > takenatakena
 
+
 <div id='Singular'/>
 
 ### "Singular"
@@ -348,6 +366,7 @@ However, it is rarely used. It is better to thread nouns as numberless adjective
 **maa ge bat jen**
 Q DEM one what
 "What is this one thing?" 
+
 
 <div id='Abbreviation'/>
 
@@ -372,8 +391,10 @@ C¹V.C¹V		> C¹VV	if propper dipthong otherwise CVR
 
 
 <div id='Syntax'/>
+
 Syntax
 ------
+
 
 <div id='Lists'/>
 
@@ -388,6 +409,7 @@ In this abstract example the addition sign is a verb.
 (3 1 2 +) = 6  
 (3 1 + 2) = (4 2)  
 
+
 <div id='Filters'/>
 
 ### Filters
@@ -400,6 +422,7 @@ No list as input is the same as every possible input.
 bal(hukbar)  
 Every language aspect (=bal) of hukbar.  
 
+
 <div id='Questions'/>
 
 ### Questions
@@ -411,7 +434,6 @@ jen = insito question word
 
 **la 'akte vii jen**  
 "Something/someone acted in which way?"
-
 
 **Yes/No question**  
 **ge maa 'ai**  
@@ -432,13 +454,13 @@ Possession has three different forms analogue to the tenses (presence, absence, 
 
 * In the presence the possessor and the possessed are threaten as one entity. Therefor the genitive is unmarked and resembles a normal noun phrase.
 * In the absence of one element the particle **no** is used to connect the two.
-* The contineous absence uses **nia** just like the absence.
+* The contineous absence uses **nyo** just like the absence.
 
 Inalienable possession is always in the presence (almost only body parts).
 
 
-
 <div id='Numeral-System'/>
+
 Numeral system
 --------------
 
@@ -468,5 +490,3 @@ A number like 7829 (base 10) would be written as 30042021 (base LCM).
 
 For big number it can happen however that the place value is bigger than 9. This would lead to confusion since it would not be apparent where a place starts and where it ends. In this case they are separated by ":". Using 360000 (base 10) as an example, it renders as `12:10:2:1:1:0:0:0:0;` We can shorten the zeros down to a representation of `12:10:2:1:1::::;` As you might have noticed it uses base ten numbers in this representation. This of course is just a convention of the romanization. In the culture going with the language there would be one symbol each for every possible step. We could also use the letters A, B, C, D... starting from 10, 11, 12, 13...  
 The ";" marks the switch from integers to fractions. The circle constant Tau 6.2831... (base 10) therefore is written as `100;01116126...` or `1::;:1:1:1:6:1:2:6:...`
-
-
