@@ -89,7 +89,7 @@ VV = ye yo ia ai au ua (ey eo oe oy iu ui)
 
 <div id='Vowel-Groups'/>
 
-### Vowel groups
+### Vowel groups/Vowel harmony
 
         y
     i--/-\--u
@@ -98,10 +98,14 @@ VV = ye yo ia ai au ua (ey eo oe oy iu ui)
        \ /
         a
 
-Vowels connected by lines can form a diphthong.  
+Vowels come in two groups differing by advanced and retracted tongue root.
+
+* [+ATR] a u i
+* [-ATR] o y e
+
+They can be seen as the remains of a former vowel harmony which is no longer productive. Still most morphemes come with either one of those groups.  
+Only vowels within a group can form diphthongs.  
 High to low and front to back combinations are more common.  
-This separates the vowels in two groups: a-u-i and o-y-e  
-The vowels of each group are more likely to appear together in a morpheme.
 
 <div id='Word-Classes'/>
 Word classes
