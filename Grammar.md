@@ -21,6 +21,7 @@ Grammar
 	4.1. [Lists](#Lists)  
 	4.2. [Filters](#Filters)  
 	4.3. [Questions](#Questions)  
+	4.4. [Genitive](#Genitive)  
 5. [Numeral System](#Numeral-System)  
 
 <div id='Phonology'/>
@@ -417,10 +418,24 @@ jen = insito question word
 DEM Q-NONPAST experience.emotions  
 "Are you (acting) emotional?"  
 Possible answers:  
-* Confirm information: "ciu" - EXP-NONPAST  
-* Correct information: "ge ciu leilei" 1 EXP-NONPAST calm  
-* Lack of information: "maa (pye)" Q-NONPAST (previous statement)  
+* Confirm information: "ciu" - EXP.NONPAST  
+* Correct information: "ge ciu leilei" 1 EXP.NONPAST calm  
+* Lack of information: "maa (pye)" Q.NONPAST (previous statement)  
 * Negation: "van 'ai"  
+
+
+<div id='Genitive'/>
+
+### Genitive
+
+Possession has three different forms analogue to the tenses (presence, absence, contineous). However the term "Genitive" is used just for the lack of a better one. In fact the meaning is more one of a symmetrical relationship of A associated with B, where both elements are interchangeable.
+
+* In the presence the possessor and the possessed are threaten as one entity. Therefor the genitive is unmarked and resembles a normal noun phrase.
+* In the absence of one element the particle **no** is used to connect the two.
+* The contineous absence uses **nia** just like the absence.
+
+Inalienable possession is always in the presence (almost only body parts).
+
 
 
 <div id='Numeral-System'/>
