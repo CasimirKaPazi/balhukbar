@@ -11,6 +11,7 @@ Grammar
 	2.2. [Conversation](#Conversation)  
 	2.3. [Pronouns](#Pronouns)  
 	2.4. [Affixes](#Affixes)  
+	2.5. [Nominal TAM](#Nominal-TAM)
 	2.5. [Singular](#Singular)  
 	2.6. [Abbreviation](#Abbreviation)  
 3. [Syntax](#Syntax)  
@@ -229,6 +230,18 @@ vo- and ni- can in a similar way be used to show the direction of a verb.
 Example:
 **ni'aina ne?**  
 "Do you know I like you?"  
+
+
+<div id='Nominal-TAM'/>
+
+### Nominal Tense-Aspect
+
+Nouns may be prefixed for tense. This tense is independent from the copula and only denotes the state of the object/property at the given time it was observed.  
+Therefor they can be translated as former- and future-. As in "Future-Buddah" when talking about someone who, in the course of the narration, attains enlightenment.
+
+| past | future |
+| ---- | ------ |
+| hui- | ho-    |
 
 
 <div id='Reduplication'/>
