@@ -13,10 +13,10 @@ My current plan is to develop it to a point where I can start learning it.
 
 Here, have an example:
 
-**ma'aa vo'ele cor nia vii huahua**  
-/ma.ʔaa βɔ.ʔɛ.lɛ tɕɔ nia viː ua.ua/  
-ma'aa (vo('ele) cor (nia) vii (huahua))  
-Q.listener.is.topic towards.speaker-move to east like wind  
+**tu maa ti vo'ele cor nia vii huahua**  
+[tu maː ti βɔ.ʔɛ.lɛ˦ tɕɔr nia˦ viː ua˦.ua]  
+tu maa ti (vo('ele) cor (nia) vii (huahua))  
+listener.is.topic Q change towards.speaker-move to east like wind  
 "Will you come east to me, fast like the wind?"  
 
 
