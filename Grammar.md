@@ -218,6 +218,8 @@ They show the speakers personal judgement of the object. Only in quotes it is us
 * va - neutral
 * pe - aversion
 
+Quotative variants are nua, vua, pye.
+
 Example:
 'ai - [verb] to act emotional, to experience emotions  
 na'ai - to like, to act nice  
@@ -226,6 +228,8 @@ pe'ai - to dislike, to be mean
 vo- and ni- can in a similar way be used to show the direction of a verb.  
 * vo - towards the speaker
 * ni - away from the speaker, towards someone/something else
+
+Quotative variants are voj, nin.
 
 Example:
 **ni'aina ne?**  
