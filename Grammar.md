@@ -7,11 +7,13 @@ Grammar
 	1.2. [Nouns](#Nouns)  
 	1.3. [Names](#Names)  
 2. [Morphology](#Morphology)  
-	2.1. [AUX-Verb](#AUX-Verb)  
-	2.2. [Conversation](#Conversation)  
-	2.3. [Pronouns](#Pronouns)  
-	2.4. [Affixes](#Affixes)  
-	2.5. [Nominal TAM](#Nominal-TAM)
+	2.1. [Copula](#Copula)  
+		2.1.1. [Tense and Evidence](#Tense-Evidence)  
+		2.1.2. [Conversation](#Conversation)  
+		2.1.3. [Relation](#Relation)  
+	2.2. [Pronouns](#Pronouns)  
+	2.3. [Affixes](#Affixes)  
+	2.4. [Nominal TAM](#Nominal-TAM)  
 	2.5. [Singular](#Singular)  
 	2.6. [Abbreviation](#Abbreviation)  
 3. [Syntax](#Syntax)  
@@ -110,9 +112,25 @@ Morphology
 ----------
 
 
-<div id='AUX-Verb'/>
+<div id='Copula'/>
 
-### AUX-Verb/Tense, Place and Evidence
+### Copula
+
+It is used in the form:
+
+    A conversation tense relation B
+
+The copula consists of three parts.
+
+* Conversation particles describe the role of the listener in the discourse.
+* Tense and Evidence are combined into one particle.
+* Relationparticles describe in what kind A and B are related.
+
+A and B are noun or verb phrases. Every part is optional. Except that one can not have A without B. If both A and B are missing it is interepreted as refering to the previous statement in the position of B.
+
+<div id='Tense-Evidence'/>
+
+###Tense and Evidence
 
 Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
 * Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
@@ -132,7 +150,6 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 
 "Negation" v-n is used to express the lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
-
 
 <div id='Conversation'/>
 
@@ -170,21 +187,20 @@ Topic
 TOP.2 Q.PAST make.stuff.up  
 "Have you made this up?"
 
+<div id='Relation'/>
 
-### Relationals (outdated, will be merged into the auxiliary verb)
+### Relation
 
 The idea for relationals is totally copied from [Kēlen](http://www.terjemar.net/kelen.php).  
 Go there to read more about the concept, idea and functions of relationals.  
-Relations can form arbitrary large chains. They can span across multiple sentences.  
-Each element is prefixed with the relational particle.  
 
 |                    |     | example |
-| ------------------ | --- | ------- | ---
-| existence          | la  | la moon la stars | 
-| change/states      | ti  | ti child ti teen ti adult | 
+| ------------------ | --- | ------- |
+| existence          | la  | la moon la stars |
+| change/states      | ti  | ti child ti teen ti adult |
 | association        | no  | no house no tree no street | -> See genitive
-| direct causation   | kia | kia falling kia breaking | 
-| systemic causation | jyn | jyn smoking jyn cancer | 
+| direct causation   | kia | kia falling kia breaking |
+| systemic causation | jyn | jyn smoking jyn cancer |
 
 
 <div id='Pronouns'/>
