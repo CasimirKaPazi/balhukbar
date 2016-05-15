@@ -24,7 +24,8 @@ Structure of this documentation
 -------------------------------
 
 "[Introduction](Introduction.md)" gives an overview over the intentions and philosophy and what makes it special.  
-"[Grammar](Grammar.md)" defines the latest state of the conlang.  
+"[Phonology](Phonology.md)"  
+"[Grammar](Grammar.md)"  
 "[Evolution](Evolution.md)" lists planed changes in the the order they will be applied.  
 "[Lexicon](Lexicon.md)" lists all words not explained in the Grammar in no particular order.
 
