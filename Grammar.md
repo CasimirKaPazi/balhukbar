@@ -2,115 +2,23 @@ Grammar
 =======
 
 ## Table of Contents
-1. [Phonology](#Phonology)  
-	1.1. [Phonemes](#Phonemes)  
-	1.2. [Syllable](#Syllable-Shape)  
-	1.3. [Vowel Groups](#Vowel-Groups)  
-2. [Word Classes](#Word-Classes)  
-	2.1. [Verbs](#Verbs)  
-	2.2. [Nouns](#Nouns)  
-	2.3. [Names](#Names)  
-3. [Morphology](#Morphology)  
-	3.1. [AUX-Verb](#AUX-Verb)  
-	3.2. [Conversation](#Conversation)  
-	3.3. [Pronouns](#Pronouns)  
-	3.4. [Perception](#Perception)  
-	3.5. [Singular](#Singular)  
-	3.6. [Abbreviation](#Abbreviation)  
-4. [Syntax](#Syntax)  
-	4.1. [Lists](#Lists)  
-	4.2. [Filters](#Filters)  
-	4.3. [Questions](#Questions)  
-	4.4. [Genitive](#Genitive)  
-5. [Numeral System](#Numeral-System)  
-
-
-<div id='Phonology'/>
-Phonology
----------
-
-
-<div id='Phonemes'/>
-
-### Phonemes
-
-|             | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal |
-| ----------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
-| Plosive     | p (b)    |              | t        |         | k (g) | ʔ       |
-| Aspirated   | pʰ (p)   |              |          |         | kʰ (k) |         |
-| Nasal       | m        |              | n        |         |       |         |
-| Trill       |          |              | r        |         |       |         |
-| Affricative |          |              |          | tɕ (c)  |       | h       |
-| Fricative   | β (v)    |              | ʃ (s)    | ç (j)   |       |         |
-| Lateral     |          |              | l        |         |       |         |
-
-|       | Front | Central | Back  |
-| ----- |:-----:|:-------:|:-----:|
-| Close |   i   |    ɨ    |   u   |
-| Mid   |   ɛ   |         |   ɔ   |
-| Open  |       |    a    |       |
-
-Writing is lowercase only.  
-< h > is silent word initial. Vowel preceding h are lengthened. < VhV > /VːV/.  
-Geminated consonants (e.g. pakku) are either lengthened or separated by copying the next vowel (e.g. pakuku).  
-All vowels can be long. Written by doubling e.g. "cii"  
-Vowel length is only distinctive in monosyllabic words.  
-p-b k-g '-h are allophones in most cases. '-h are only distinctive word initial.  
-
-
-<div id='Syllable-Shape'/>
-
-### Syllable shape
-
-(C)V(R)  
-(C)VV  
-CN(V)  
-
-syllable | example
--------- | -------
-1 mora:  |
-V	     | ho
-CV	     | ka
-CN	     | mn
-2 mora:  |
-Vː	     | hyy
-VV	     | hai
-CVː	     | gaa
-CVV	     | pye
-CVR	     | sen
-CNV	     | bra
-
-Syllables with one mora are written with two letters.  
-Those with two mora are written with three letters.  
-h is used to fill the gaps.  
-CN syllables only appear as monosyllabic words (mostly interrogations) or word final.
-
-R = n t j r l k  
-N = n v s r l (act syllabic)  
-V = a u i o y e  
-Vː = aa uu ii oo yy ee  
-VV = ye yo ia ai au ua (ey eo oe oy iu ui)
-
-
-<div id='Vowel-Groups'/>
-
-### Vowel groups/Vowel harmony
-
-        y
-    i--/-\--u
-     \/   \/
-     e\---/o
-       \ /
-        a
-
-Vowels come in two groups differing by advanced and retracted tongue root.
-
-* [+ATR] a u i
-* [-ATR] o y e
-
-They can be seen as the remains of a former vowel harmony which is no longer productive. Still most morphemes come with either one of those groups.  
-Only vowels within a group can form diphthongs.  
-High to low and front to back combinations are more common.  
+1. [Word Classes](#Word-Classes)  
+	1.1. [Verbs](#Verbs)  
+	1.2. [Nouns](#Nouns)  
+	1.3. [Names](#Names)  
+2. [Morphology](#Morphology)  
+	2.1. [AUX-Verb](#AUX-Verb)  
+	2.2. [Conversation](#Conversation)  
+	2.3. [Pronouns](#Pronouns)  
+	2.4. [Affixes](#Affixes)  
+	2.5. [Singular](#Singular)  
+	2.6. [Abbreviation](#Abbreviation)  
+3. [Syntax](#Syntax)  
+	3.1. [Lists](#Lists)  
+	3.2. [Filters](#Filters)  
+	3.3. [Questions](#Questions)  
+	3.4. [Genitive](#Genitive)  
+4. [Numeral System](#Numeral-System)  
 
 
 <div id='Word-Classes'/>
@@ -118,7 +26,7 @@ High to low and front to back combinations are more common.
 Word classes
 ------------
 
-Word are mostly grouped within three bigger word classes:
+Word are grouped within two bigger word classes:
 * Grammatical particles
   * Interrogations
   * Pronouns
@@ -130,22 +38,21 @@ Word are mostly grouped within three bigger word classes:
   * Directions
   * Time markers
   * ...
-* Verbs
-* Adjectives-Nouns/Content-words
+* Content words
+  * Verbs
+  * Adjectives-Nouns
   * Abstract
   * Atmospheric
   * Structural
-* (Personal Names)
+  * (Personal Names)
 
 It is often possible to tell which class a word belongs to by looking at it.  
-For this they differ in a small number of features.  
-Length is currently expressed in mora.  
 Only proper verbs start with a glottal stop.  
-Except when a verb is in the process of being grammaticalized.  
+When a verb is in the process of being grammaticalized the glottal stop might turn into h.  
 * Grammatical particles are only one or two mora long.  
   2 to 4 letters.  
   They start with a consonant other than the glottal stop.  
-  Example: bu, buko
+  Example: bu, buku
 * Verbs begin with a glottal stop and end in a vowel. They are at least two mora long.  
   Minimum 3 letters of which the first is '.  
   Example: 'ai, 'usbane
@@ -153,8 +60,6 @@ Except when a verb is in the process of being grammaticalized.
   Minimum 5 letters (some exceptions).  
   They start with a consonant other than the glottal stop.  
   Example: cykte, tatakena
-
-### Grammatical particles
 
 
 <div id='Verbs'/>
