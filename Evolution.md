@@ -5,37 +5,39 @@ Evolution
 
 ## Planed phoneme inventory
 
-|             | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal |
-| ----------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
-| Plosive     | p        | t̼ (p̈)        | t        | [c]     | k     | ʔ  (')   |
-| Nasal       | m        | n̼ (m̈)        | n        | ɲ (ń)   |       |         |
-| Trill       |          |              | r        |         |       |         |
-| Affricative |          |              |          | tɕ (c)  |       | h       |
-| Fricative   | β (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
-| Lateral     |          |              | l        |         |       |         |
-
-[c] is an allophone/in free variation with [tɕ]
+|                   | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal |
+| ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
+| Plosive           | p        | t̼ (p̈)        | t        |         | k     | ʔ  (')  |
+| Nasal             | m        | n̼ (m̈)        | n        | ɲ (ń)   | [ŋ]   |         |
+| Trill             | ʙ (b/ṙ)  |              | r        |         |       |         |
+| Affricative       |          |              | [ɾ]      | tɕ (c)  |       | h       |
+| Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
+| Lateral fricative |          |              | ɬ (ł)    |         |       |         |
+| Lateral           |          | [l̼]          | l        |         |       |         |
 
 Type p̈ m̈ v̈ using U_308
 
 Example wordgen:  
-N=nljrtk  
-C=ptkcjqPmMnvVsrlh  
-V=auieyo  
+
+```
+N=nljrq
+C=ptk'PmncjMvVsbrlłh
+V=auieyo
 W=AUIEYO
 
-A|ai  
-U|au  
-I|ia  
-E|eo  
-Y|ye  
-O|yo  
-P|p̈  
-M|m̈  
-V|v̈  
-CV  
-CW  
+A|ai
+U|au
+I|ia
+E|eo
+Y|ye
+O|yo
+P|p̈
+M|m̈
+V|v̈
+CV
+CW
 CVN
+```
 
 U: unrounded vowel  
 O: rounded vowel
@@ -51,18 +53,70 @@ i, y > V / ɲ_C...V (Vowel gets replaced by the next vowel)
 First establish some new consonants and get the speakers used to them, then spread them everywhere.  
 ts > t̼ / U_U, #_U (katpe > kap̈e)  
 pn > n̼ / U_U, #_U (kapne > kam̈e)  
-pʰ > t̼ / _U (partial, as a form of emphasis)  
+pʰ > t̼ / _U
 m > n̼ / U_U, #_U  
 n > n̼ / U_U, #_U  
-β, s > / ð̼ #_U  
+ɸ, s > / ð̼ #_U  
 pʰ > p (loose the remains of aspiration)  
 mp > n̼d̼ / _U
 
+## Lateral fricative
+tl > ɬ
 
-# Changes ?? > ??
+## Bilabial trill
+pr > ʙ #_  
+pr > ʙ V_u  
+(TODO: Pay license fee to Knorkator)
 
-Orthography: Maybe write the glottal stop as < q > and use < ' > instead to mark stress. Depends on how important stress becomes for the grammar.
+## Turn codas into archiphonemes
 
-Maybe establish a bi-syllabic root system using tone and infixes. Or create another language for it.  
-Example derivations for **pa.ku**:  
-pánkù, pālkur, apákùn, pakūkū, pákūkù
+|     | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal | End of Word |
+|:---:|:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|:-----------:|
+| /P/ | p        | p            | t        | k       | k     | t.h     | p           |
+| /N/ | m        | n̼            | n        | ɲ       | ŋ     | n.h     | m/ŋ         |
+| /R/ | r        | r            | r        | r       | r     | r.h     | ɾ           |
+| /L/ | l        | l̼            | l        | l       | l     | l.h     | l           |
+| /V/ | v        | ð̼            | ç        | ç       | ç     | ç.ʔ     | ç           |
+            
+
+Stops /P/ < q >  
+Geminates before p, t, k.  
+P > p   / _C[+bilabial]  
+P > p   / _C[+linguolabial]  
+P > t   / _C[+alveolar]  
+P > k   / _C[+velar]  
+P.C > t.ʔ / _C[+glottal] (glottal sound is replaced)  
+P > k   / {a,o,u}_#  
+P > p   / {i,e,y}_# (p is without release here)  
+
+'uqbar [ʔup:ar]  
+muqhan [mut.çaŋ]  
+
+
+Nasals /N/ < n >  
+Geminates before another nasal.  
+N > m / _C[+bilabial]  
+N > n̼ / _C[+linguolabial]  
+N > n / _C[+alveolar]  
+N > ŋ / _C[+velar]  
+N > ŋ / {a,o,u}_#  
+N > m / {i,e,y}_#  
+
+patan [patam]  
+tenpo [tempo]  
+linma [lim:a]  
+
+Fricative /F/ < v >  
+F > ɸ / _C[+bilabial]  
+F > ð̼ / _C[+linguolabial]  
+F > ç / _C[+alveolar]  
+F > ç / _C[+velar]  
+F > ç / V_#  
+
+Trill/Flap /R/ < r >  
+R > ɾ / V_#  
+R > r / else  
+
+Lateral /l/ < l >  
+L > l̼ / _C[+linguolabial]  
+L > l / else  
