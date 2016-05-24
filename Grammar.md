@@ -130,7 +130,7 @@ A and B are noun or verb phrases. Every part is optional. Except that one can no
 
 <div id='Tense-Evidence'/>
 
-###Tense and Evidence
+### Tense and Evidence
 
 Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
 * Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
@@ -194,13 +194,16 @@ TOP.2 Q.PAST make.stuff.up
 The idea for relationals is totally copied from [Kēlen](http://www.terjemar.net/kelen.php).  
 Go there to read more about the concept, idea and functions of relationals.  
 
-|                    |     | example |
-| ------------------ | --- | ------- |
-| existence          | la  | la moon la stars |
-| change/states      | ti  | ti child ti teen ti adult |
-| association        | no  | no house no tree no street | -> See genitive
-| direct causation   | kia | kia falling kia breaking |
-| systemic causation | jyn | jyn smoking jyn cancer |
+|                    | bal'ukbar | Kēlen | example |
+| ------------------ | --------- | ----- | ------- |
+| existence          | la        | LA/PA | la moon la stars |
+| change/states      | hi        | NI    | hi child hi teen hi adult |
+| association        | no/nia    | PA    | no house no tree no street |
+| direct causation   | kia       | NI    | kia falling kia breaking |
+| systemic causation | jyn       | NI    | jyn smoking jyn cancer |
+| movement           | sun       | -     | sun here sun there |
+
+For association also see "Genitive".
 
 
 <div id='Pronouns'/>
