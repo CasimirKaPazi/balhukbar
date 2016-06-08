@@ -1,0 +1,2 @@
+markdown Lexicon.md > Lexicon.html
+wkhtmltopdf Lexicon.html Lexicon.pdf

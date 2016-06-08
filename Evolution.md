@@ -10,7 +10,7 @@ Evolution
 | Plosive           | p        | t̼ (p̈)        | t        |         | k     | ʔ  (')  |
 | Nasal             | m        | n̼ (m̈)        | n        | ɲ (ń)   | [ŋ]   |         |
 | Trill             | ʙ (b/ṙ)  |              | r        |         |       |         |
-| Affricative       |          |              | [ɾ]      | tɕ (c)  |       | h       |
+| Affricative       |          |              | [ɾ]      | tɕ (c)  |       | Ø~h~x   |
 | Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
 | Lateral fricative |          |              | ɬ (ł)    |         |       |         |
 | Lateral           |          | [l̼]          | l        |         |       |         |
