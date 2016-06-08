@@ -431,3 +431,8 @@ A number like 7829 (base 10) would be written as 30042021 (base LCM).
 
 For big number it can happen however that the place value is bigger than 9. This would lead to confusion since it would not be apparent where a place starts and where it ends. In this case they are separated by ":". Using 360000 (base 10) as an example, it renders as `12:10:2:1:1:0:0:0:0;` We can shorten the zeros down to a representation of `12:10:2:1:1::::;` As you might have noticed it uses base ten numbers in this representation. This of course is just a convention of the romanization. In the culture going with the language there would be one symbol each for every possible step. We could also use the letters A, B, C, D... starting from 10, 11, 12, 13...  
 The ";" marks the switch from integers to fractions. The circle constant Tau 6.2831... (base 10) therefore is written as `100;01116126...` or `1::;:1:1:1:6:1:2:6:...`
+
+Example:  
+393,685,908,592,794  
+2:1:14:0:2:3:0:13:11:0:10:7:2:1:2:4:1:0:0;  
+cee-hatip me'ej sye-cee-kusai cee-piniu lot-lymo sye-bat-cese liu-kal-bat-rupa liu-kal-niru liu-bat-ryvo cee-jani myy cee-gej kal-sye liu  
