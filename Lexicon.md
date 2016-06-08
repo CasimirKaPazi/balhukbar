@@ -124,6 +124,8 @@ kon		| constructed			| de: konstruiert
 go		| clay, dough, semi-solid	| tp: ko
 ti		| life, to live			| sux: ti
 ve		| clean, plain, natural
+he		| abundant, healthy, resistant, diverse | sux: ḫe2
+hur		| scarce, sick, narrow, short term	| sux: ur5
 
 ### Verbs
 bal'ukbar	| definition				| source
@@ -135,17 +137,16 @@ bal'ukbar	| definition				| source
 'ymene		| sing						| ty: himene
 'atanu		| make a present, share		| sux: nadanu
 'ele		| go somewhere				| haw: hele
-'eme/'alora	| talk, listen, communicate	| sux: eme, eo: parolas
+'eme/'oloro	| talk, listen, communicate	| sux: eme, eo: parolas
 'ubuja		| kiss
 'usbane		| to rest					| de: ausspannen
-'obai		| to sight					| piraha: xobai
+'ubai		| to sight					| piraha: xobai
 'ubuju		| think, solve problems		| sux: Buzur
 'alka		| come, call someone		| sux: alka
-'enuma		| make up a story			| akk: enuma eliš
+'inuma		| make up a story			| akk: enuma eliš
 'alasa		| hunt, forage, search		| tp: alasa
 'ylo		| do something using a tool	| tp: ilo
 'alo		| pay attention, get attention	| fr: alor
-'ilo		| use a tool				| tp: ilo
 'akte/'ata	| act, do					| en: act
 'ope		| open, unleash, being, start	| tp: open
 'iji		| learn, understand			| zh: jīng
@@ -154,7 +155,8 @@ bal'ukbar	| definition				| source
 'ivi		| childish play without formal rules
 'invida		| hide
 'ajli		| wake up					| vajlin
-'ili		| to fan out
+'ili		| to fan out (e.g. a rope)
+'ihi/'aha	| to laugh, to be funny/silly
 
 ### Noun/Adjective
 bal'ukbar	| definition				| source
@@ -169,7 +171,7 @@ bubuca		| spit
 hema		| feminine
 hapi		| masculine					| sux: api - father of
 hajin		| symmetric pair			| heb: יים ajim
-kaiji		| symmetric in itself	
+sutin		| symmetric in itself	| sux: su-din - butterfly
 kagesi		| reptile, amphibian like	| tp: akesi
 cortu		| protective, enclosed, isolated	| hortus
 venua		| land (= not sea)			| ty: fenua
@@ -216,7 +218,7 @@ sonai		| mind, knowledge, idea		| tp: sona
 tatiagaj	| hypnagogic, state between dream and wake	| northern sami: adjágas
 karta		| thin brittle layer/cover	| northern sami: skárta
 huahua/huabv	| windy						| hua + bv
-solri		| sunny						| lojban: solri
+solri/sunri	| sunny, shine, bright, star	| lojban: solri sux: šún
 harvl		| thing of the size a human can handle		| de: arm voll
 leilei		| calm
 bronir		| dublicated object by forgetting about it	| tlön: hron, hronir
@@ -237,9 +239,21 @@ batbat  | (small) paws walking
 buruk	| pidgeon sound
 patup	| closing of an book, puting something down
 jinknu	| possible for everyone to know
-sogot	| shapeless
+soqgot	| shapeless	| Shoggoth
 mnturu  | liquid
 vipasana| clear sighted, not valuing, not judging
+vuavij  | vague, blurred
+noloro  | communicating, linked, bound together, connected	| no + 'oloro
+mamujin | experiencing a dream, dream sight, inner vision	| sux: ma-nu "dream" zh: jiàn
+malaq	| befriended
+matala  | thick bundle of long things	| sux: madala
+nonsej  | bitter	| sux: nam-šeš
+saqhul	| both good and bad, neither good and bad	| sux: sag9-ḫul
+titila  | many small things	| sux: didila
+cauhuli | herbal, essential oils	| zh: cǎo sux: ùli
+tymy(ny)| child-parent relation	| sux: dumu zh: nǚ
+maina   | partner, compainon, equal	| sux: mana mína
+libir   | old, ancient, traditional, used, worn	| sux: libir
 
 ### Compound
 bal'ukbar	| meaning
