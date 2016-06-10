@@ -23,29 +23,18 @@ bv		| blow, uh, sigh
 'ia		|
 bai		| intensifier
 
-### Grammar
-bal'ukbar| definition			| source
---------|-----------------------|-------
-vii		| manner, atmosphere
-'ilo	| instrumental					| gram: 'ilo
-por		| cause, reason
-'alo	| vocative						| gram: 'alo
-gun		| source of evidence
-
 ### Particle/Filter/Prefixes
 bal'ukbar| definition			| source
 --------|-----------------------|-------
-na		| attraction/like		| because of resonance
-pe		| aversion/dislike		| sound of spiting out	/p̺ɛ/
 yro		| coloured like			| jp: -iro
 somo	| dyed/coloured with	| jp: -zomo
 teno	| time period				| tp: tenpo
-	| point in time
+ 	| point in time	| 
 bal/bla		| language, speech
 tu/tut		| symbol, representation
-		| ability or potential to be or do something
+nenly		| ability or potential to be or do something | zh: nénglì
 		| knowledge of, wisdom of
-va'eu	| semell of				| na'vi: fahew
+vo'ey	| smell of				| na'vi: fahew
 
 ### Directions
 bal'ukbar| definition			| source
@@ -83,8 +72,8 @@ mo		| whole number			| araki: mo
 ny		| fraction
 jia		| positive number		| zh: jiā
 vu		| negative number		| zh: fù
-mute	| most, much			| tp: mute
-lite	| least, little
+muti	| most, much			| tp: mute
+lyte	| least, little
 nil		| 0
 bat		| 1
 cee		| 2
