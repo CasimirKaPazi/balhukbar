@@ -9,228 +9,227 @@ onomo: onomatopoeia/ideophone
 IPA only is given when it differs from the phonemic reading.
 
 ### Interogation
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
 hai		| recognise something new
-'ot		| switch discussion/topic	|	en: OT, off topic
+'oq		| switch discussion/topic	|	en: OT, off topic
 mn		| think
 'n		| remember
 br		| "stop it", unpleasant
 hua		| windy, change, fresh
 he		| hu?
 tv		| ach, naja, tja
-bv		| blow, uh, sigh
+pv		| blow, uh, sigh
 'ia		|
-bai		| intensifier
+pai		| intensifier
 
 ### Particle/Filter/Prefixes
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
 yro		| coloured like			| jp: -iro
 somo	| dyed/coloured with	| jp: -zomo
-teno	| time period				| tp: tenpo
+teno/tem̈o	| time period				| tp: tenpo
  	| point in time	| 
-bal/bla		| language, speech
+pal/pla		| language, speech
 tu/tut		| symbol, representation
 nenly		| ability or potential to be or do something | zh: nénglì
 		| knowledge of, wisdom of
 vo'ey	| smell of				| na'vi: fahew
 
 ### Directions
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
-ni		| away from speaker		| zh: nǐ
+ńi		| away from speaker		| zh: nǐ
 vo		| towards speaker		| zh: wǒ
 cor		| towards
 kol		| away from
-guj		| turn around
+kuj		| turn around
 nun		| here-now
 vyr		| direction of poles
-nia		| east
+ńa		| east
 raj		| direction of equator
-nyn		| west
+ńyn		| west
 
 ### Aspect
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
-lap		| perfect				| zh: la
+laq		| perfect				| zh: la
 lon		| repeated
 lij		| progressive
 
 ### Colour terms
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
-kyle	| colourful, saturated	| tp: kule
-try		| dull, grey, triste	| fr: triste
-braja	| bright, light coloured	| bright, blank
-kiara	| dark, intense coloured	| ga: Ciara
+cyle	| colourful, saturated	| tp: kule
+ły		| dull, grey, triste	| fr: triste
+řaja	| bright, light coloured	| bright, blank
+cara	| dark, intense coloured	| ga: Ciara
 
 ### Numbers
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
 mo		| whole number			| araki: mo
-ny		| fraction
-jia		| positive number		| zh: jiā
+ńy		| fraction
+ja		| positive number		| zh: jiā
 vu		| negative number		| zh: fù
 muti	| most, much			| tp: mute
 lyte	| least, little
-nil		| 0
-bat		| 1
+ńil		| 0
+paq		| 1
 cee		| 2
-lot		| 3						| Archaean: lot en: a lot
+loq		| 3						| Archaean: lot en: a lot
 kal		| 4
-pan		| 5
+p̈an		| 5
 liu		| 6						| zh: liù
 sye		| 12
-gej		| 60					| sux: gesh
+kej		| 60					| sux: gesh
 myy		| 420					| Sȷakolan: <min> /mɯ̃/
 jani	| 820					| Sȷakolan: <zȷenim> /ʑʌ̃nim/
 ryvo	| 2520
-niru	| 27720
+ńuru	| 27720
 toky	| 360360
-rupa	| 720720
-cese	| 12252240
-sami	| 232792560
+řup̈a	| 720720
+cev̈e	| 12252240
+sam̈i	| 232792560
 lymo	| 5354228880
-piniu	| 26771144400
+p̈ińu	| 26771144400
 vojyn	| 80313433200
 kusai	| 2329089562800
 me'ej	| 72201776446800
-hatip	| 144403552893600
+hatiq	| 144403552893600
 
 ### Roots (only used to form nouns)
-bal'ukbar| definition			| source
+palhuqpar| definition			| source
 --------|-----------------------|-------
 tau		| dàu					| zh: dàudéjīng
-ki		| fractal
+ci		| fractal
 lin		| limited by the boundaries of the universe	| math: lim
 tu		| copy, image, word
-tut		| symbol				| ancient egyptian: twt
+tuq		| symbol				| ancient egyptian: twt
 tun		| called, name, word	| tu + n
-po		| soft, round			| onomo
+p̈o		| soft, round			| onomo
 pur		| fur, pluma			| en: fur, pluma
 kon		| constructed			| de: konstruiert
-go		| clay, dough, semi-solid	| tp: ko
+ko		| clay, dough, semi-solid	| tp: ko
 ti		| life, to live			| sux: ti
 ve		| clean, plain, natural
 he		| abundant, healthy, resistant, diverse | sux: ḫe2
 hur		| scarce, sick, narrow, short term	| sux: ur5
 
 ### Verbs
-bal'ukbar	| definition				| source
+palhuqpar	| definition				| source
 ------------|---------------------------|-------
-'everte		| assign a value/judge		| de: bewerten
+'ev̈ełe		| assign a value/judge		| de: bewerten
 'ai			| acting emotions out		| zh: ài
 'amnu		| eat						| ty: 'amu
 'inu		| drink						| ty: inu
-'ymene		| sing						| ty: himene
+'ym̈ene		| sing						| ty: himene
 'atanu		| make a present, share		| sux: nadanu
 'ele		| go somewhere				| haw: hele
-'eme/'oloro	| talk, listen, communicate	| sux: eme, eo: parolas
-'ubuja		| kiss
-'usbane		| to rest					| de: ausspannen
-'ubai		| to sight					| piraha: xobai
-'ubuju		| think, solve problems		| sux: Buzur
+'em̈e/'oloro	| talk, listen, communicate	| sux: eme, eo: parolas
+'upuja		| kiss
+'ujpane		| to rest					| de: ausspannen
+'upai		| to sight					| piraha: xobai
+'upuju		| think, solve problems		| sux: Buzur
 'alka		| come, call someone		| sux: alka
 'inuma		| make up a story			| akk: enuma eliš
 'alasa		| hunt, forage, search		| tp: alasa
 'ylo		| do something using a tool	| tp: ilo
 'alo		| pay attention, get attention	| fr: alor
-'akte/'ata	| act, do					| en: act
-'ope		| open, unleash, being, start	| tp: open
+'aqte/'ata	| act, do					| en: act
+'op̈e		| open, unleash, being, start	| tp: open
 'iji		| learn, understand			| zh: jīng
-'ibla		| create, imagine, grow, build	| iblard
-'ybno		| dream						| hypno
-'ivi		| childish play without formal rules
-'invida		| hide
+'iqla		| create, imagine, grow, build	| iblard
+'yqno		| dream						| hypno
+'iv̈i		| childish play without formal rules
+'invita		| hide
 'ajli		| wake up					| vajlin
 'ili		| to fan out (e.g. a rope)
 'ihi/'aha	| to laugh, to be funny/silly
 
 ### Noun/Adjective
-bal'ukbar	| definition				| source
+palhuqpar	| definition				| source
 ------------|---------------------------|-------
-cykte		| cut, broken
-mama/hama	| mother, woman
-baba/haba	| father, man
-vava		| person
-cyece		| young person/child
-bubuso		| lips
-bubuca		| spit
-hema		| feminine
-hapi		| masculine					| sux: api - father of
+cyqte		| cut, broken
+mam̈a/ham̈a	| mother, woman
+papa/hapa	| father, man
+v̈av̈a		| person
+cece		| young person/child
+pupuso		| lips
+pupuca		| spit
+hem̈a		| feminine
+hap̈i		| masculine					| sux: api - father of
 hajin		| symmetric pair			| heb: יים ajim
 sutin		| symmetric in itself	| sux: su-din - butterfly
-kagesi		| reptile, amphibian like	| tp: akesi
+kakesi		| reptile, amphibian like	| tp: akesi
 cortu		| protective, enclosed, isolated	| hortus
 venua		| land (= not sea)			| ty: fenua
-pakaru		| broken, damaged			| ty: pakaru
-volopyt		| 							| Volapük
-selet		| tender, fresh				| ppl: selek
-sivat		| leaf like					| ppl: iswat
+volop̈yt		| 							| Volapük
+seleq		| tender, fresh				| ppl: selek
+v̈iv̈aq		| leaf like					| ppl: iswat
 cautate		| saudade					| pt: saudade
-basari		| meaty food				| hew: basari
-calavi		| milky food				| hew: chalawi
+pasari		| meaty food				| hew: basari
+calav̈i		| milky food				| hew: chalawi
 porve		| neutral food (no meat no milk)	| hew: parve
 notuvuvij	| nothing to fuck with		| nothing to fuck with
 nunte		| herenow, thouseand things 
 			| wisdom on no escape
-kilin		| limited fractals			| ki+lin
+cilin		| limited fractals			| ki+lin
 			| the knowledge that in reality we can only approximate fractals
 			| layered nature of things: mind based on biology of the brain, biology based on chemistry, chemistry based on physics, physics based on quantum physics, quantum physics based on math
-vrumara		| something intact and consistent massively disturbed by something alien and omnipresent
+řumara		| something intact and consistent massively disturbed by something alien and omnipresent
 			| life in a scarce environment and the diversity that grows from that
-grokv/gorok	| "to understand so thoroughly that the observer becomes a part of the observed—to merge, blend, intermarry, lose identity in group experience" | Stranger in a Strange Land: grok
-tesegryty	| tensional integrity	| Buckminster Fuller: Tensegrity
+koroq       | "to understand so thoroughly that the observer becomes a part of the observed—to merge, blend, intermarry, lose identity in group experience" | Stranger in a Strange Land: grok
+tev̈ekryty	| tensional integrity	| Buckminster Fuller: Tensegrity
 			| something one is able to reproduce, e.g. by knowing ingredients, path, by looking at it
    -cy		| food where every meal has only two ways of taste. e.g. sweet-sour, sweet-fat, hot-sour
 			| things (of small number) one possesses by using them only by one self and regularly. e.g. the only two ropes one wears, the only cup one drinks of
 			| modular, individual parts are replaceable
 vajlin		| waking life
-ciuciu		| bird sound				| onomo
-pacipaci	| hands clapping			| onomo, jp: pachipachi
-bvabva/buvabuva	| soft						| onomo, jp: fuwafuwa
-patan		| heartbeat, excited, in love	| onomo, Edit Piaf: Padam
-pyryl		| sparkling					| onomo, tr: pırıl pırıl
-nibana		| the ever unchanging		| nirvana
-kiniba		| unlimited fractals		| ki+nibana
+cucucu		| bird sound				| onomo
+p̈acip̈aci	| hands clapping			| onomo, jp: pachipachi
+pvapva/puvapuva	| soft						| onomo, jp: fuwafuwa
+p̈atan		| heartbeat, excited, in love	| onomo, Edit Piaf: Padam
+p̈yryl		| sparkling					| onomo, tr: pırıl pırıl
+ńipana		| the ever unchanging		| nirvana
+cańapa		| unlimited fractals		| ki+nibana
 melia		| person					| tp: meli
-pakala		| botched, broken, damaged, damaged, messed up	| tp: pakala
+p̈akala		| botched, broken, damaged, damaged, messed up	| tp: pakala
 sovele		| animal					| tp: soweli, de: schäufele
 terara		| earth						| terra
 marse		| mars
-pobai		| existence
+popai		| exist
 lorai		| heterogeneous, colourful, blooming
-kalama		| utterance, call, human sound	| tp: kalama
+kalam̈a		| utterance, call, human sound	| tp: kalama
 momo		| listen, show interest in other persons	| Michael Ende: Momo
 sonai		| mind, knowledge, idea		| tp: sona
 tatiagaj	| hypnagogic, state between dream and wake	| northern sami: adjágas
-karta		| thin brittle layer/cover	| northern sami: skárta
+kała		| thin brittle layer/cover	| northern sami: skárta
 huahua/huabv	| windy						| hua + bv
 solri/sunri	| sunny, shine, bright, star	| lojban: solri sux: šún
-harvl		| thing of the size a human can handle		| de: arm voll
-leilei		| calm
-bronir		| dublicated object by forgetting about it	| tlön: hron, hronir
-hurnir		| object produced through suggestion, educed by hope	| tlön: ur + -nir
+harvl		| thing of the size a human can handle		| de: arm/heugabel voll
+lailai		| calm
+řońir		| dublicated object by forgetting about it	| tlön: hron, hronir
+hurńir		| object produced through suggestion, educed by hope	| tlön: ur + -nir
 		| dawn
 		| far away cry of a bird
 		| pulsing red of closed eyes
 		| to let oneself drift in a water or dream
 		| not reacting, inert, neutral
 myjel		| Mycelium
-tropv	| nature after a warm summer rain	| /u/droomph
+łopvo	| nature after a warm summer rain
 		| A silent winter night where only the moon sheds light onto the fresh snow.
 pjatan		| changed
-kirkiri		| kitzeln
-baubau	| dog bark
-batbat  | (small) paws walking
+circiri		| kitzeln, tickle
+paupau	| dog bark
+paqpaq  | (small) paws walking
 		| without decoration, without 
-buruk	| pidgeon sound
-patup	| closing of an book, puting something down
+puruq	| pidgeon sound
+p̈atuq	| closing of an book, puting something down
 jinknu	| possible for everyone to know
-soqgot	| shapeless	| Shoggoth
+soqkoq	| shapeless	| Shoggoth
 mnturu  | liquid
-vipasana| clear sighted, not valuing, not judging
+v̈ip̈asana| clear sighted, not valuing, not judging
 vuavij  | vague, blurred
 noloro  | communicating, linked, bound together, connected	| no + 'oloro
 mamujin | experiencing a dream, dream sight, inner vision	| sux: ma-nu "dream" zh: jiàn
@@ -242,16 +241,16 @@ titila  | many small things	| sux: didila
 cauhuli | herbal, essential oils	| zh: cǎo sux: ùli
 tymy(ny)| child-parent relation	| sux: dumu zh: nǚ
 maina   | partner, compainon, equal	| sux: mana mína
-libir   | old, ancient, traditional, used, worn	| sux: libir
+lipir   | old, ancient, traditional, used, worn	| sux: libir
 
 ### Compound
-bal'ukbar	| meaning
+palhuqpar	| meaning
 ------------|---------------------------
-bal'ukbar	| name of this language
-ge-nun		| this, here, reference from inside	Is this/genun a dream? genun is a sentence.
+palhuqpar	| name of this language
+ke-nun		| this, here, reference from inside	Is this/kenun a dream? kenun is a sentence.
 
 ### Phrases
-bal'ukbar	| meaning
+palhuqpar	| meaning
 ------------|---------------------------
 'alo		| listen, let me tell you
 'ia			| bye

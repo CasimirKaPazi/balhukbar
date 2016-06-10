@@ -55,14 +55,14 @@ When a verb is in the process of being grammaticalized the glottal stop might tu
 * Grammatical particles are only one or two mora long.  
   2 to 4 letters.  
   They start with a consonant other than the glottal stop.  
-  Example: bu, buku
+  Example: pu, puku
 * Verbs begin with a glottal stop and end in a vowel. They are at least two mora long.  
   Minimum 3 letters of which the first is '.  
-  Example: 'ai, 'usbane
+  Example: 'ai, 'ujpane
 * Content words are at least three mora long.  
   Minimum 5 letters (some exceptions).  
   They start with a consonant other than the glottal stop.  
-  Example: cykte, tatakena
+  Example: cyqte, tatakena
 
 
 <div id='Verbs'/>
@@ -71,17 +71,17 @@ When a verb is in the process of being grammaticalized the glottal stop might tu
 
 Verbs only describe actions that result in one state at a time changing into another state in a later time.
 Therefor verbs like "move, say, play, think" are possible, but "be, have, sit, own, relate, mean, display" are not. The later examples are expressed using other word classes.
-Verbs are satellite framed in the way that manner is expressed with **vii** + adjective. Direction is expressed using **cor kol guj**, "away towards around" and the prefixes **vo**- and **ni**-.
+Verbs are satellite framed in the way that manner is expressed with **vii** + adjective. Direction is expressed using **cor kol kuj**, "away towards around" and the prefixes **vo**- and **ńi**-.
 
-**malan vo'ele cor nia vii huahua**  
-malan (vo('ele) cor (nia) vii (huahua))  
+**malan vo'ele cor ńa vii huahua**  
+malan (vo('ele) cor (ńa) vii (huahua))  
 Q.listener.is.topic towards.speaker-move to east like wind  
 "Will you go east to me, fast like the wind?"  
 (Sidenote: There are no real pronouns in this sentence.)
 
-Verbs can be derived from nouns by omitting all initial and final consonants and adding a glottal stop in front.  
-Because of the limitations of meaning, the derived meaning of the verb always is the action that is neccessary to create or become the noun.
-As an example the word **mama** "woman, mother" turns into **'ama** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
+Verbs can be derived from nouns by omitting the onset of the first and coda of the last syllable and adding a glottal stop in front.  
+Because of the limitations of meaning, the derived meaning of the verb always is the action that is necessary to create or become the noun.
+As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
 
 <div id='Nouns'/>
@@ -91,8 +91,8 @@ As an example the word **mama** "woman, mother" turns into **'ama** "to become a
 Content words serve both the role of adjectives and nouns.  
 There is no distinction between the two. Therefor they are called "adjectives" in this grammar.  
 Adjectives can be abstract, atmospheric or structural. The distinction often is blurred.  
-* Abstract adjectives are concepts that can be defined or understood. e.g. nibana, gorok
-* Atmospheric ones can link to a memory, a feeling, an image. e.g. hukbar
+* Abstract adjectives are concepts that can be defined or understood. e.g. nipana, koroq
+* Atmospheric ones can link to a memory, a feeling, an image. e.g. huqpar
 * Structural describe a pattern, or fractal properties. They are between abstract and atmospheric adjectives.
 
 
@@ -100,8 +100,8 @@ Adjectives can be abstract, atmospheric or structural. The distinction often is 
 
 ### Personal names
 
-Personal names can form nicknames by reduplicating the last syllable. ('amabery > ryry)  
-The distinction between full names and nicknames is the same as je-ge and bu.  
+Personal names can form nicknames by reduplicating the last syllable. ('am̈apery > ryry)  
+The distinction between full names and nicknames is the same as je-ke and pu.  
 Usually speakers describe persons just like they describe objects in the world.  
 The personal name is something mostly used between people that know each other closer.  
 It is about as common to know someones name as it is in English to know someones nickname.
@@ -126,7 +126,7 @@ The copula consists of three parts.
 * Tense and Evidence are combined into one particle.
 * Relationparticles describe in what kind A and B are related.
 
-A and B are noun or verb phrases. Every part is optional. Except that one can not have A without B. If both A and B are missing it is interepreted as refering to the previous statement in the position of B.
+A and B are noun or verb phrases. Every part is optional. Except that one can not have A without B. If both A and B are missing it is interpreted as referring to the previous statement in the position of B.
 
 <div id='Tense-Evidence'/>
 
@@ -139,9 +139,9 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 
 | Perception | evidence-tense | aux |
 | ---------- | -------------- | --- |
-| Presence   | exp present    | ciu |
+| Presence   | exp present    | cu |
 | Negation   | neg present    | van |
-| Continuous | exp near-past  | cia |
+| Continuous | exp near-past  | ca |
 | Absence    | exp past       | cii |
 |            | inf            | ruu |
 |            | hrs            | laa |
@@ -167,7 +167,7 @@ This system is inspired by an idea Kirble developed for the conlang "Cavelan" an
   **halo**
 * Listen: Listener is part of the conversation but not it's topic.  
   **ha**
-* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ge".  
+* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ke".  
   **tu**
 * Monologue: Holding a monologue, talking to one self, thinking out loud.  
   **mn**
@@ -178,7 +178,7 @@ VOC Q.NONPAST time
 "Excuse me, what time is it?" or "Hey, what time?"
 
 Listen  
-**ha cia tenpo ny cee**  
+**ha ca tem̈o ńy cee**  
 LISTEN EXP.CONT.LISTEN time fraction two  
 "Let me tell you, it seemed like midnight." (ny cee -> half a day)
 
@@ -198,8 +198,8 @@ Go there to read more about the concept, idea and functions of relationals.
 | ------------------ | --------- | ----- | ------- |
 | existence          | la        | LA/PA | la moon la stars |
 | change/states      | hi        | NI    | hi child hi teen hi adult |
-| association        | no/nia    | PA    | no house no tree no street |
-| direct causation   | kia       | NI    | kia falling kia breaking |
+| association        | no/ńa    | PA    | no house no tree no street |
+| direct causation   | ca       | NI    | kia falling kia breaking |
 | systemic causation | jyn       | NI    | jyn smoking jyn cancer |
 | movement           | sun       | -     | sun here sun there |
 
@@ -214,14 +214,14 @@ Persons are specified by clusivity.
 
 |              | default | quotative |
 | ------------ | ------- | --------- |
-| listener-exc | ja/jaky | jama      |
-| other-exc    | bu/buku | bumu      |
-| speaker-exc  | ge/geky | geme      |
-| any/everyone | kyne    | -         |
+| listener-exc | ja/jaku | jam̈a      |
+| other-exc    | pu/puku | pumu      |
+| speaker-exc  | ke/kecy | gem̈e      |
+| any/everyone | cyne    | -         |
 
-They don't distinguish by number. So je can be either "I" or "we.exclusive", ge is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
+They don't distinguish by number. So je can be either "I" or "we.exclusive", ke is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
-As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ge)? Can you (=ge) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ge. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ge-sitting, and ge-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Conversation.
+As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ke)? Can you (=ke) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ke. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ke-sitting, and ke-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Conversation.
 
 Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.QUOT.'" as opposed to reported speech "They said that they will help us."
 
@@ -230,28 +230,28 @@ Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.Q
 
 ### Affixes
 
--na -va and -pe are suffixes that can be added to adjectives, verbs and pronouns.  
+-na -va and -p̈e are suffixes that can be added to adjectives, verbs and pronouns.  
 They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
 
 * na - attraction
 * va - neutral
-* pe - aversion
+* p̈e - aversion
 
-Quotative variants are nua, vua, pye.
+Quotative variants are nua, vua, p̈ye.
 
 Example:
 'ai - [verb] to act emotional, to experience emotions  
 na'ai - to like, to act nice  
-pe'ai - to dislike, to be mean  
+p̈e'ai - to dislike, to be mean  
 
-vo- and ni- can in a similar way be used to show the direction of a verb.  
+vo- and ńi- can in a similar way be used to show the direction of a verb.  
 * vo - towards the speaker
-* ni - away from the speaker, towards someone/something else
+* ńi - away from the speaker, towards someone/something else
 
-Quotative variants are voj, nin.
+Quotative variants are voj, ńin.
 
 Example:
-**ni'aina ne?**  
+**ńi'aina ne?**  
 "Do you know I like you?"  
 
 
@@ -290,8 +290,8 @@ To widen the meaning, blurring it, or adding uncertainty.
 In numbers, using the bases:  
 sye 12  
 syesye 6 to 12  
-gej 60  
-gejgej 12 to 60  
+kej 60  
+kejkej 12 to 60  
 
 Full reduplication of a word that contains partial reduplication leads to it's loss.  
 tatakena > takenatakena
@@ -304,7 +304,7 @@ tatakena > takenatakena
 Nouns have no number, in best case they can be viewed as plural by default.  
 It is possible to indicate that only one object is revered using a demonstrative and the number one.
 However, it is rarely used. It is better to thread nouns as numberless adjectives.
-**maa ge bat jen**
+**maa ke paq jen**
 Q DEM one what
 "What is this one thing?" 
 
@@ -343,7 +343,7 @@ Syntax
 
 Words and lists can both be elements in a list.  
 Within a list all elements are interchangeable while the meaning remains the same.  
-**sivat selet kilin** = **sivat kilin selet** = **kilin selet sivat** = "fresh fractal leaflike"  
+**v̈iv̈aq seleq cilin** = **v̈iv̈aq cilin seleq** = **cilin seleq v̈iv̈aq** = "fresh fractal leaflike"  
 An exception to this are verbs which apply to all preceding elements in a list.  
 In this abstract example the addition sign is a verb.  
 (1 2 3 +) = 6  
@@ -359,9 +359,9 @@ Every word can serve as a filter for a list.
 Structure is f(l) where f() is the filter and l the list.  
 A filter reduces the broad/atmospheric meaning of a word to a more specific one.  
 No list as input is the same as every possible input.  
-**bal'ukbar**  
-bal(hukbar)  
-Every language aspect (=bal) of hukbar.  
+**palhuqpar**  
+pal(huqpar)  
+Every language aspect (=pal) of huqpar.  
 
 
 <div id='Questions'/>
@@ -370,19 +370,19 @@ Every language aspect (=bal) of hukbar.
 
 **Asking for particular information**  
 jen = insito question word  
-**la jen 'akte**  
+**jen 'aqte**  
 "What/Who acted?"  
 
-**la 'akte vii jen**  
+**'aqte jen**  
 "Something/someone acted in which way?"
 
 **Yes/No question**  
-**ge maa 'ai**  
+**ke maa 'ai**  
 DEM Q-NONPAST experience.emotions  
 "Are you (acting) emotional?"  
 Possible answers:  
-* Confirm information: "ciu" - EXP.NONPAST  
-* Correct information: "ge ciu leilei" 1 EXP.NONPAST calm  
+* Confirm information: "cu" - EXP.NONPAST  
+* Correct information: "ke cu lailai" 1 EXP.NONPAST calm  
 * Lack of information: "maa (pye)" Q.NONPAST (previous statement)  
 * Negation: "van 'ai"  
 
@@ -395,7 +395,7 @@ Possession has three different forms analogue to the tenses (presence, absence, 
 
 * In the presence the possessor and the possessed are threaten as one entity. Therefor the genitive is unmarked and resembles a normal noun phrase.
 * In the absence of one element the particle **no** is used to connect the two.
-* The contineous absence uses **nyo** just like the absence.
+* The contineous absence uses **ńo** just like the absence.
 
 Inalienable possession is always in the presence (almost only body parts).
 
@@ -421,9 +421,9 @@ Russell Easterly, Oct 03 2001 As comment to the before mentioned series.
 
 This statement includes fractions. This means a fraction like 1/3 which in base ten is 0.333333... can be expressed as 0.02, which reads `0*1/2 + 2*1/6`. While the number 3 is represented as 11 which reads 1 * 2 + 1 * 1. In the effect expressing fractions is much easier and useful then in any fixed radix system, while expressing integers is quite harder.
 
-Now this is where it comes back to the language and it's culture. Where cultures with a standard base system (just about all cultures we know about) use mostly integers to talk about the world and the objects they find in it, the speakers of bal'ukbar use both, integers and fractions. This gives rise to the divisible-indivisible distinction. For every thing that is divisible in the way that smaller parts have the same quality - e.g. water, sand, stone, wood, time, place - fractions are used. Things that change it's properties by dividing - e.g. living things, a boule, body parts, most things crafted - are revered by integers.
+Now this is where it comes back to the language and it's culture. Where cultures with a standard base system (just about all cultures we know about) use mostly integers to talk about the world and the objects they find in it, the speakers of palhuqpar use both, integers and fractions. This gives rise to the divisible-indivisible distinction. For every thing that is divisible in the way that smaller parts have the same quality - e.g. water, sand, stone, wood, time, place - fractions are used. Things that change it's properties by dividing - e.g. living things, a boule, body parts, most things crafted - are revered by integers.
 
-Therefor to talk about the time of day for example, instead of inventing smaller units called "hours" they talk about half a day, two sixth a day, one half and one twelvth a day etc.
+Therefor to talk about the time of day for example, instead of inventing smaller units called "hours" they talk about half a day, two sixth a day, one half and one twelfth a day etc.
 
 A number like 7829 (base 10) would be written as 30042021 (base LCM).
 
@@ -435,4 +435,4 @@ The ";" marks the switch from integers to fractions. The circle constant Tau 6.2
 Example:  
 393,685,908,592,794  
 2:1:14:0:2:3:0:13:11:0:10:7:2:1:2:4:1:0:0;  
-cee-hatip me'ej sye-cee-kusai cee-piniu lot-lymo sye-bat-cese liu-kal-bat-rupa liu-kal-niru liu-bat-ryvo cee-jani myy cee-gej kal-sye liu  
+cee-hatiq me'ej sye-cee-kusai cee-piniu loq-lymo sye-paq-cev̈e liu-kal-paq-rup̈a liu-kal-ńiru liu-paq-ryvo cee-jańi myy cee-kej kal-sye liu  
