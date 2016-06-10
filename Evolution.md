@@ -9,7 +9,7 @@ Evolution
 | ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
 | Plosive           | p        | t̼ (p̈)        | t        |         | k     | ʔ  (')  |
 | Nasal             | m        | n̼ (m̈)        | n        | ɲ (ń)   | [ŋ]   |         |
-| Trill             | ʙ (b/ṙ)  |              | r        |         |       |         |
+| Trill             | ʙ (br/ř) |              | r        |         |       |         |
 | Affricative       |          |              | [ɾ]      | tɕ (c)  |       | Ø~h~x   |
 | Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
 | Lateral fricative |          |              | ɬ (ł)    |         |       |         |
@@ -42,31 +42,35 @@ CVN
 U: unrounded vowel  
 O: rounded vowel
 
+h > ʔ / V_V
+ʔ > h / !#_ (make ʔ and h only differ at the start of a word)
+
+## Lateral fricative
+tl,tr,lt,rt > ɬ
+
+## Bilabial trill
+pr,br,vr > ʙ
+
 ## Palatalisation
-k > c / _i, _y, _e  
+k > tɕ / _i, _y, _e  
 n > ɲ / _i, _y  
 kʰ > k  
-i, y > Ø / ɲ_V (Reduce diphthongs ia iu ye yo > a u e o)  
-i, y > V / ɲ_C...V (Vowel gets replaced by the next vowel)
+i, y > Ø / {tɕ,ç,ɲ}_V (Reduce diphthongs ia iu ye yo > a u e o)  
+i, y > V / {tɕ,ç,ɲ}_CV (Vowel gets replaced by the next vowel)
 
 ## Linguolabial consonants
 First establish some new consonants and get the speakers used to them, then spread them everywhere.  
 ts > t̼ / U_U, #_U (katpe > kap̈e)  
-pn > n̼ / U_U, #_U (kapne > kam̈e)  
+pn,np > n̼ / U_U, #_U (kapne > kam̈e)  
 pʰ > t̼ / _U
-m > n̼ / U_U, #_U  
-n > n̼ / U_U, #_U  
-ɸ, s > / ð̼ #_U  
+m > n̼ / U_U  
+ɸ, s > ð̼ / U_U  
 pʰ > p (loose the remains of aspiration)  
 mp > n̼d̼ / _U
-
-## Lateral fricative
-tl > ɬ
-
-## Bilabial trill
-pr > ʙ #_  
-pr > ʙ V_u  
-(TODO: Pay license fee to Knorkator)
+m > n̼ / #_UC[+linguolabial]
+p > t̼ / #_UC[+linguolabial]
+ɸ, s > ð̼ / #_UC[+linguolabial]
+r > ʙ / #_UC[+linguolabial]
 
 ## Turn codas into archiphonemes
 
