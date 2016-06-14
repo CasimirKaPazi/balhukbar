@@ -139,9 +139,9 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 
 | Perception | evidence-tense | aux |
 | ---------- | -------------- | --- |
-| Presence   | exp present    | cu |
+| Presence   | exp present    | cuu |
 | Negation   | neg present    | van |
-| Continuous | exp near-past  | ca |
+| Continuous | exp near-past  | caa |
 | Absence    | exp past       | cii |
 |            | inf            | ruu |
 |            | hrs            | laa |
@@ -168,7 +168,7 @@ This system is inspired by an idea Kirble developed for the conlang "Cavelan" an
 * Listen: Listener is part of the conversation but not it's topic.  
   **ha**
 * Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ke".  
-  **tu**
+  **tū**
 * Monologue: Holding a monologue, talking to one self, thinking out loud.  
   **mn**
 
@@ -197,9 +197,9 @@ Go there to read more about the concept, idea and functions of relationals.
 |                    | bal'ukbar | Kēlen | example |
 | ------------------ | --------- | ----- | ------- |
 | existence          | la        | LA/PA | la moon la stars |
-| change/states      | hi        | NI    | hi child hi teen hi adult |
-| association        | no/ńa    | PA    | no house no tree no street |
-| direct causation   | ca       | NI    | kia falling kia breaking |
+| change/states      | hī        | NI    | hi child hi teen hi adult |
+| association        | no/ńo    | PA    | no house no tree no street |
+| direct causation   | cau       | NI    | kia falling kia breaking |
 | systemic causation | jyn       | NI    | jyn smoking jyn cancer |
 | movement           | sun       | -     | sun here sun there |
 
@@ -230,23 +230,25 @@ Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.Q
 
 ### Affixes
 
--na -va and -p̈e are suffixes that can be added to adjectives, verbs and pronouns.  
+-nā -va and -p̈e are suffixes that can be added to adjectives, verbs and pronouns.  
 They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
 
-* na - attraction
+* nā - attraction
 * va - neutral
 * p̈e - aversion
 
-Quotative variants are nua, vua, p̈ye.
+Quotative variants are nūa, vua, p̈ye.
 
 Example:
 'ai - [verb] to act emotional, to experience emotions  
 na'ai - to like, to act nice  
 p̈e'ai - to dislike, to be mean  
 
-vo- and ńi- can in a similar way be used to show the direction of a verb.  
+vo- and ńV- can in a similar way be used to show the direction of a verb.  
 * vo - towards the speaker
-* ńi - away from the speaker, towards someone/something else
+* ńV - away from the speaker, towards someone/something else
+
+ńV takes the next vowel as V. ńV-p̈acip̈aci -> ńap̈acip̈aci.
 
 Quotative variants are voj, ńin.
 
