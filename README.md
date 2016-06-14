@@ -1,7 +1,7 @@
 bal'ukbar constructive grammar
 ==============================
 
-Version 0.1 (This is still a work in progress and not useable. Also these documents are by no means a formal description of the grammar, instead they are a dense definition of the language. There are large portions missing, outdate, wrong and whatever.)
+Version 0.2 (This is still a work in progress and not useable. Also these documents are by no means a formal description of the grammar, instead they are a dense definition of the language. There are large portions missing, outdate, wrong and whatever.)
 
 
 Language of Ukbar
@@ -11,12 +11,12 @@ Bal'ukbar is a constructed language (conlang). To be more precise an engineered 
 This means I am inventing (or mostly remixing) a speakable language and its associated culture.  
 My current plan is to develop it to a point where I can start learning it.
 
-Here, have an example:
-
-**tu maa ti vo'ele cor nia vii huahua**  
-[tu maː ti βɔ.ʔɛ.lɛ˦ tɕɔr nia˦ viː ua˦.ua]  
-tu maa ti (vo('ele) cor (nia) vii (huahua))  
-listener.is.topic Q change towards.speaker-move to east like wind  
+Here, have an example:  
+ﾂ･ﾏｰ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
+**tu maa hi vo'ele cor ńa - huahua**  
+[tu˦ maː i˦ ɸɔ.ʔɛ.lɛ˦ tɕɔɾ ɲa˦ ua˦.ua]  
+tu maa hi (vo('ele) cor (ńa)) - (huahua)  
+listener.is.topic Q change towards.speaker-move to east windy  
 "Will you come east to me, fast like the wind?"  
 
 
