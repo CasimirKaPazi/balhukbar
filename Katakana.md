@@ -36,3 +36,13 @@ Coda:
 
 Example (no meaning):  
 ﾊ̄ｬ̀ｳｯ̄ﾊ̄ｮ̀･ｻ̄ｰ･ﾈ̄ｸ̄ｺｪ̊･ﾑ̄ｧ̊ｼ̵ｭ̀･ﾊ̄ｨ̊｡
+
+
+Hanzi can replace two mora words. Often in Chinese borrowings.
+
+吗 - maa - question  
+一 - paq - 1  
+二 - cee - 2  
+六 - liu - 6  
+女 - hem̈a - feminie  
+男 - hap̈i - masculine  
