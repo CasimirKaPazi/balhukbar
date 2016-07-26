@@ -1,3 +1,5 @@
+![](bal'ukbar.png)
+
 bal'ukbar constructive grammar
 ==============================
 
