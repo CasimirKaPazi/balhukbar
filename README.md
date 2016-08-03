@@ -15,9 +15,9 @@ My current plan is to develop it to a point where I can start learning it.
 
 Here, have an example:  
 ﾂ･ﾏｰ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
-**tu maa hi vo'ele cor ńa - huahua**  
-[tu˦ maː i˦ ɸɔ.ʔɛ.lɛ˦ tɕɔɾ ɲa˦ ua˦.ua]  
-tu maa hi (vo('ele) cor (ńa)) - (huahua)  
+**tu maa hi vo'ele corńa - huahua**  
+[tu˦ maː i˦ ɸɔ.ʔɛ'lɛ tɕɔrɲa˦ 'ua.ua]  
+tu maa hi (vo('ele) cor(ńa)) - (huahua)  
 listener.is.topic Q change towards.speaker-move to east windy  
 "Will you come east to me, fast like the wind?"  
 

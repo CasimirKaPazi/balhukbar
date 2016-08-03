@@ -3,9 +3,12 @@ Grammar
 
 ## Table of Contents
 1. [Word Classes](#Word-Classes)  
-	1.1. [Verbs](#Verbs)  
-	1.2. [Nouns](#Nouns)  
+	1.1. [Nouns](#Nouns)  
+	1.2. [Action words](#Actions)  
 	1.3. [Names](#Names)  
+	1.4. Particles
+	1.5. Interrogations
+	1.6. Numbers
 2. [Morphology](#Morphology)  
 	2.1. [Copula](#Copula)  
 		2.1.1. [Tense and Evidence](#Tense-Evidence)  
@@ -17,7 +20,7 @@ Grammar
 	2.5. [Singular](#Singular)  
 	2.6. [Abbreviation](#Abbreviation)  
 3. [Syntax](#Syntax)  
-	3.1. [Lists](#Lists)  
+	3.1. [Phrases](#Phrases)  
 	3.2. [Filters](#Filters)  
 	3.3. [Questions](#Questions)  
 	3.4. [Genitive](#Genitive)  
@@ -35,53 +38,32 @@ Word are grouped within two bigger word classes:
   * Pronouns
   * Relationals
   * Grammatical markers
-  * Auxiliary "verb"
+  * Copula
   * Numbers
   * Filters
   * Directions
   * Time markers
   * ...
 * Content words
-  * Verbs
-  * Adjectives-Nouns
-  * Abstract
-  * Atmospheric
-  * Structural
+  * Actions
+  * Adjectives/Nouns
+    * Abstract
+    * Atmospheric
+    * Structural
   * (Personal Names)
 
-It is often possible to tell which class a word belongs to by looking at it.  
-Only proper verbs start with a glottal stop.  
-When a verb is in the process of being grammaticalized the glottal stop might turn into h.  
+It is often possible to tell which class a word belongs to by looking at it. Only action word start with a glottal stop. When an action word is in the process of being grammaticalized the glottal stop might turn into h. e.g. 'alo ("pay attention") > halo (VOCATIVE).
+
 * Grammatical particles are only one or two mora long.  
-  2 to 4 letters.  
   They start with a consonant other than the glottal stop.  
   Example: pu, puku
-* Verbs begin with a glottal stop and end in a vowel. They are at least two mora long.  
-  Minimum 3 letters of which the first is '.  
+* Actions begin with a glottal stop and end in an open syllable. They are at least two mora long.  
   Example: 'ai, 'ujpane
 * Content words are at least three mora long.  
-  Minimum 5 letters (some exceptions).  
   They start with a consonant other than the glottal stop.  
-  Example: cyqte, tatakena
+  Example: cyqte, tatake
 
-
-<div id='Verbs'/>
-
-### Verbs
-
-Verbs only describe actions that result in one state at a time changing into another state in a later time.
-Therefor verbs like "move, say, play, think" are possible, but "be, have, sit, own, relate, mean, display" are not. The later examples are expressed using other word classes.
-Verbs are satellite framed in the way that manner is expressed with **vii** + adjective. Direction is expressed using **cor kol kuj**, "away towards around" and the prefixes **vo**- and **ńi**-.
-
-**malan vo'ele cor ńa vii huahua**  
-malan (vo('ele) cor (ńa) vii (huahua))  
-Q.listener.is.topic towards.speaker-move to east like wind  
-"Will you go east to me, fast like the wind?"  
-(Sidenote: There are no real pronouns in this sentence.)
-
-Verbs can be derived from nouns by omitting the onset of the first and coda of the last syllable and adding a glottal stop in front.  
-Because of the limitations of meaning, the derived meaning of the verb always is the action that is necessary to create or become the noun.
-As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
+Interrogations, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactically and morphologically just like other adjectives and are therefore a huge resource for new lexical material.
 
 
 <div id='Nouns'/>
@@ -89,11 +71,33 @@ As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to be
 ### Adjectives-Nouns
 
 Content words serve both the role of adjectives and nouns.  
-There is no distinction between the two. Therefor they are called "adjectives" in this grammar.  
-Adjectives can be abstract, atmospheric or structural. The distinction often is blurred.  
+There is no distinction between the two. While they behave like what one would call adjectives, the two terms are use synonymous in this grammar.
+Adjectives can be abstract, atmospheric or structural. The distinction often is blurred. 
+ 
 * Abstract adjectives are concepts that can be defined or understood. e.g. nipana, koroq
 * Atmospheric ones can link to a memory, a feeling, an image. e.g. huqpar
 * Structural describe a pattern, or fractal properties. They are between abstract and atmospheric adjectives.
+
+Those categories are only semantically.
+
+
+<div id='Actions'/>
+
+### Action words
+
+Action words only describe actions that result in one state at a time changing into another state in a later time.
+Therefor words like "move, say, play, think" are possible, but "be, have, sit, own, relate, mean, display" are not.
+They are more likely to take the prefixes **vo**- and **ńi**- to express the action is directed. They can however all the same affixes as nouns. Syntactically the also behave just like nouns. The main difference is in the semantic meaning.
+
+**malan vo'ele corńa huahua**  
+malan (vo('ele) cor(ńa) huahua)  
+Q.listener.is.topic towards.speaker-move to east like wind  
+"Will you go east to me, fast like the wind?"  
+(Sidenote: There are no real pronouns in this sentence.)
+
+Action words can be derived from nouns by omitting the onset of the first and coda of the last syllable and adding a glottal stop in front.  
+The derived meaning of the action word always is the action that is necessary to create or become the noun.
+As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
 
 <div id='Names'/>
@@ -101,10 +105,11 @@ Adjectives can be abstract, atmospheric or structural. The distinction often is 
 ### Personal names
 
 Personal names can form nicknames by reduplicating the last syllable. ('am̈apery > ryry)  
-The distinction between full names and nicknames is the same as je-ke and pu.  
-Usually speakers describe persons just like they describe objects in the world.  
-The personal name is something mostly used between people that know each other closer.  
-It is about as common to know someones name as it is in English to know someones nickname.
+The distinction between full names and nicknames is the same as je-ke and pu.
+Usually speakers describe persons just like they describe objects in the world.
+The personal name is something mostly used between people that know each other closer.
+It is about as common to know someones name as it is in English to know someones date of birth.  
+Names are considered to be like any other noun, with the distinction that they only should describe this one person. If it happens that two by the same name live in the same community, they would both extend their name to make it differed from the other. Therefor they tend to be long and become longer over the years. It is also common to change ones name completely, adapting an often used description instead.
 
 
 <div id='Morphology'/>
@@ -124,9 +129,9 @@ The copula consists of three parts.
 
 * Conversation particles describe the role of the listener in the discourse.
 * Tense and Evidence are combined into one particle.
-* Relationparticles describe in what kind A and B are related.
+* Relation particles describe in what kind A and B are related.
 
-A and B are noun or verb phrases. Every part is optional. Except that one can not have A without B. If both A and B are missing it is interpreted as referring to the previous statement in the position of B.
+A and B are noun phrases. Every part is optional. Except that one can not have A without B. If both A and B are missing it is interpreted as referring to the previous statement in the position of B.
 
 <div id='Tense-Evidence'/>
 
@@ -135,31 +140,32 @@ A and B are noun or verb phrases. Every part is optional. Except that one can no
 Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
 * Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
 * Absence: The counterpart to presence in the way that it includes everything what is in the past or outside of the perception. It might be the contents of a story you heard as a child (hearsay) or hearing the story as a child (past). Absence can further be marked for the concrete evidence: Own past experience, hearsay and inference.
-* Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present. As abbreviation "CONT" is used in this document.
+* Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present. As abbreviation "CONT" is used in this document. The defining time of this tense is when the evidence was made, not when the event it reveres to. e.g. One can use "lia" shortly after hearing a years old story.
 
 | Perception | evidence-tense | aux |
 | ---------- | -------------- | --- |
 | Presence   | exp present    | cuu |
 | Negation   | neg present    | van |
 | Continuous | exp near-past  | caa |
+|            | hrs near-past  | lia |
 | Absence    | exp past       | cii |
 |            | inf            | ruu |
-|            | hrs            | laa |
+|            | hrs past       | laa |
 |            | neg            | vir |
 | Question   | Q              | maa |
 
-"Negation" v-n is used to express the lack of knowledge.  
+"Negation" van/vir is used to express lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
 
 <div id='Conversation'/>
 
 ### Conversation
 
-The conversation markers show the relation listener and speaker are in. They can either precede the sentence as a whole or the aux. verb.
+The conversation markers show the relation listener and speaker are in. They can either precede the sentence as a whole or the copula.
 Intended effects are:  
 * The speaker pays attention to the role of the listener.
 * The listener knows that the speaker cares about them and their discussion.
-* As some sort of vocative and topic marker. To manage dicourse.
+* As some sort of vocative and topic marker. To manage discourse.
 
 This system is inspired by an idea Kirble developed for the conlang "Cavelan" and the way Basque does something vaguely similar.
 
@@ -167,7 +173,7 @@ This system is inspired by an idea Kirble developed for the conlang "Cavelan" an
   **halo**
 * Listen: Listener is part of the conversation but not it's topic.  
   **ha**
-* Topic: Listener is topic of the discussion. Can be used to compensate the vagueness of "ke".  
+* Topic: What is said includes the listener. Can be used to compensate the vagueness of pronouns.  
   **tū**
 * Monologue: Holding a monologue, talking to one self, thinking out loud.  
   **mn**
@@ -178,9 +184,9 @@ VOC Q.NONPAST time
 "Excuse me, what time is it?" or "Hey, what time?"
 
 Listen  
-**ha ca tem̈o ńy cee**  
-LISTEN EXP.CONT.LISTEN time fraction two  
-"Let me tell you, it seemed like midnight." (ny cee -> half a day)
+**ha caa tem̈o ńy cee**  
+LISTEN EXP.CONT time fraction two  
+"Let me tell you, it seemed like midnight." (ńy cee -> half a day)
 
 Topic  
 **tu maa 'enuma**  
@@ -198,7 +204,7 @@ Go there to read more about the concept, idea and functions of relationals.
 | ------------------ | --------- | ----- | ------- |
 | existence          | la        | LA/PA | la moon la stars |
 | change/states      | hī        | NI    | hi child hi teen hi adult |
-| association        | no/ńo    | PA    | no house no tree no street |
+| association        | no/ńo     | PA    | no house no tree no street |
 | direct causation   | cau       | NI    | kia falling kia breaking |
 | systemic causation | jyn       | NI    | jyn smoking jyn cancer |
 | movement           | sun       | -     | sun here sun there |
@@ -214,28 +220,35 @@ Persons are specified by clusivity.
 
 |              | default | quotative |
 | ------------ | ------- | --------- |
-| listener-exc | ja/jaku | jam̈a      |
+| listener-exc | je/jeky | jem̈e      |
 | other-exc    | pu/puku | pumu      |
 | speaker-exc  | ke/kecy | gem̈e      |
 | any/everyone | cyne    | -         |
 
-They don't distinguish by number. So je can be either "I" or "we.exclusive", ke is "you, he, she, it, they, this, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only bu, depending on context. bu is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
+They don't distinguish by number. So **je** can be either "I" or "we.exclusive", **ke** is "you, he, she, it, they, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only **bu**, depending on context. **bu** is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
 As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ke)? Can you (=ke) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ke. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ke-sitting, and ke-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Conversation.
 
-Quotative pronouns are used in direct quotes "They said 'We.QUOT will help you.QUOT.'" as opposed to reported speech "They said that they will help us."
+Pronouns are rarely use independently. Because they are so ambiguous the mostly form the head of a noun phrase.
+
+Quotative pronouns are used as well in direct quotes as in indirect speech. In most cases the two therefore turn out to be the same.
+
+**cii ke 'em̈e - jem̈e cau kem̈e ho-'ihi.**  
+EXP.PST ke talk je.QUOT CAUSE ke.QUOT FUT.laugh  
+"They said we will make you laugh."  
+In this case ke and jem̈e revere to the same person(s), while kem̈e revers to someone else.
 
 
 <div id='Affixes'/>
 
 ### Affixes
 
--nā -va and -p̈e are suffixes that can be added to adjectives, verbs and pronouns.  
+-nā -va and -p̈e are suffixes that can be added to adjectives and action words.  
 They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
 
-* nā - attraction
+* nā - attraction (LIKE)
 * va - neutral
-* p̈e - aversion
+* p̈e - aversion (evitiative case: EVIT)
 
 Quotative variants are nūa, vua, p̈ye.
 
@@ -243,17 +256,16 @@ Example:
 'ai - [verb] to act emotional, to experience emotions  
 na'ai - to like, to act nice  
 p̈e'ai - to dislike, to be mean  
+va'ai - to not give a fuck  
 
-vo- and ńV- can in a similar way be used to show the direction of a verb.  
+vo- and ńi- can in a similar way be used to show the direction of a verb.  
 * vo - towards the speaker
-* ńV - away from the speaker, towards someone/something else
-
-ńV takes the next vowel as V. ńV-p̈acip̈aci -> ńap̈acip̈aci.
+* ńi - away from the speaker, towards someone/something else
 
 Quotative variants are voj, ńin.
 
-Example:
 **ńi'aina ne?**  
+OUTWARDS-act.emotional-LIKE do.you.know.Q  
 "Do you know I like you?"  
 
 
@@ -262,7 +274,7 @@ Example:
 ### Nominal Tense-Aspect
 
 Nouns may be prefixed for tense. This tense is independent from the copula and only denotes the state of the object/property at the given time it was observed.  
-Therefor they can be translated as former- and future-. As in "Future-Buddah" when talking about someone who, in the course of the narration, attains enlightenment.
+Therefor they can be translated as former- and future-. As in "Future-Buddah" when talking about someone who, in the course of the narration, will attain enlightenment.
 
 | past | future |
 | ---- | ------ |
@@ -305,10 +317,11 @@ tatakena > takenatakena
 
 Nouns have no number, in best case they can be viewed as plural by default.  
 It is possible to indicate that only one object is revered using a demonstrative and the number one.
-However, it is rarely used. It is better to thread nouns as numberless adjectives.
-**maa ke paq jen**
-Q DEM one what
-"What is this one thing?" 
+However, it is rarely used and instead recommended to thread nouns as numberless adjectives.
+
+**maa ke paq jen**  
+Q DEM one what  
+"What is this one thing?"
 
 
 <div id='Abbreviation'/>
@@ -339,18 +352,14 @@ Syntax
 ------
 
 
-<div id='Lists'/>
+<div id='Phrases'/>
 
-### Lists
+### Phrases
 
-Words and lists can both be elements in a list.  
-Within a list all elements are interchangeable while the meaning remains the same.  
+Words and phrases can both be elements in a phrase.  
+Within a phrase all elements are interchangeable while the meaning remains the same.  
 **v̈iv̈aq seleq cilin** = **v̈iv̈aq cilin seleq** = **cilin seleq v̈iv̈aq** = "fresh fractal leaflike"  
-An exception to this are verbs which apply to all preceding elements in a list.  
-In this abstract example the addition sign is a verb.  
-(1 2 3 +) = 6  
-(3 1 2 +) = 6  
-(3 1 + 2) = (4 2)  
+They are either ordered by focus, or just uttered in the way they entered the speakers mind. The better something is already known in the discourse, the less important it is and therefor moves to the end and can often be omitted. New and important information moves to the front.
 
 
 <div id='Filters'/>
@@ -374,9 +383,6 @@ Every language aspect (=pal) of huqpar.
 jen = insito question word  
 **jen 'aqte**  
 "What/Who acted?"  
-
-**'aqte jen**  
-"Something/someone acted in which way?"
 
 **Yes/No question**  
 **ke maa 'ai**  
