@@ -17,7 +17,7 @@ Phonology
 | ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
 | Plosive           | p        | t̼ (p̈)        | t        |         | k     | ʔ  (')  |
 | Nasal             | m        | n̼ (m̈)        | n        | ɲ (ń)   | [ŋ]   |         |
-| Trill             | ʙ (br/ř) |              | r        |         |       |         |
+| Trill             | ʙ (r̈)    |              | r        |         |       |         |
 | Affricative       |          |              | [ɾ]      | tɕ (c)  |       | Ø~h~x   |
 | Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
 | Lateral fricative |          |              | ɬ (ł)    |         |       |         |
@@ -41,9 +41,9 @@ Therefor aveolar consonants are sometime pronounced slightly retroflex.
 For broad transcription this documentation uses the dotted symbols instead of the correct IPA ones, as they are easyer to read.
 
 
-<div id='Vowel-Harmony'/>
+<div id='Vowel-Groups'/>
 
-### Vowel Harmony
+### Vowel Groups
 
         y
     i--/-\--u
@@ -52,10 +52,10 @@ For broad transcription this documentation uses the dotted symbols instead of th
        \ /
         a
 
-Vowels come in two groups differing by advanced and retracted tongue root.
+Vowels come in two groups.
 
-* [+ATR] a u i
-* [-ATR] o y e
+* a u i
+* o y e
 
 They can be seen as the remains of a former vowel harmony which is no longer productive. Still most morphemes come with either one of those groups.  
 Only vowels within a group can form diphthongs.  
