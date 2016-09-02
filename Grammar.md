@@ -177,6 +177,10 @@ This system is inspired by an idea Kirble developed for the conlang "Cavelan" an
   **tū**
 * Monologue: Holding a monologue, talking to one self, thinking out loud.  
   **mn**
+* Private talk: Something that's only supposed for the addressee to hear.
+  **hati**
+* Agreement: Express agreement with the others position. Reformulate to show one understood. Add more information to what the other said.
+  **haso**
 
 Introduce  
 **halo maa tenpo**  
@@ -184,7 +188,7 @@ VOC Q.NONPAST time
 "Excuse me, what time is it?" or "Hey, what time?"
 
 Listen  
-**ha caa tem̈o ńy cee**  
+**ha caa tenpo ńy cee**  
 LISTEN EXP.CONT time fraction two  
 "Let me tell you, it seemed like midnight." (ńy cee -> half a day)
 
