@@ -22,9 +22,10 @@ Grammar
 3. [Syntax](#Syntax)  
 	3.1. [Phrases](#Phrases)  
 	3.2. [Filters and Comments](#Filters-Comments)  
-	3.3. [Questions](#Questions)  
-	3.4. [Genitive](#Genitive)  
-	3.5. [Sentence final particles](#Sentence-final)  
+	3.3. [Pauses](#Pauses)  
+	3.4. [Questions](#Questions)  
+	3.5. [Genitive](#Genitive)  
+	3.6. [Sentence final particles](#Sentence-final)  
 4. [Numeral System](#Numeral-System)  
 5. [Gestures](#Gestures)  
 
@@ -393,6 +394,22 @@ Every language aspect (=pal) of huqpar.
 **palhuqparp̈e**  
 palhuqpar-p̈e
 I don't like palhuqpar
+
+
+<div id='Pauses'/>
+
+### Pauses
+
+Pauses indicate the relations of filters and lists.
+Pauses are useful to group phrases and determine what parts of a sentence serve as filters.
+
+| name   | extIPA | romanization     | syllabary | phonetic representation |
+| ------ | ------ | ---------------- | --------- | ----------------------- |
+| short  |        | "te-na" / "tena" | ﾃﾅ | no audible pause, stress only on first root word |
+| middle | (.)    | "te na"          | ﾃ･ﾅ | no audible pause, archiphonemes take word ending form |
+| long   | (..)   | "te - na"        | ﾃ･･ﾅ | audible pause, archiphonemes take word ending form |
+
+Pauses structure a sentence into a hierarchy of lists. Each list is defined by it's initial and final pause, which are longer than any medial pause.
 
 
 <div id='Questions'/>
