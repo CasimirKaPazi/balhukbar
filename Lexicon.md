@@ -58,21 +58,6 @@ vyr		| direction of poles
 raj		| direction of equator
 ńyn		| west
 
-### Aspect
-palhuqpar| definition			| source
---------|-----------------------|-------
-laq		| perfect				| zh: la
-lon		| repeated
-lij		| progressive
-
-### Colour terms
-palhuqpar| definition			| source
---------|-----------------------|-------
-cyle	| colourful, saturated	| tp: kule
-ły		| dull, grey, triste	| fr: triste
-řaja	| bright, light coloured	| bright, blank
-cara	| dark, intense coloured	| ga: Ciara
-
 ### Numbers
 palhuqpar| definition			| source
 --------|-----------------------|-------
@@ -105,24 +90,6 @@ vojyn	| 80313433200
 kusai	| 2329089562800
 me'ej	| 72201776446800
 hatiq	| 144403552893600
-
-### Roots (only used to form nouns)
-palhuqpar| definition			| source
---------|-----------------------|-------
-tau		| dàu					| zh: dàudéjīng
-ci		| fractal
-lin		| limited by the boundaries of the universe	| math: lim
-tu		| copy, image, word
-tuq		| symbol				| ancient egyptian: twt
-tun		| called, name, word	| tu + n
-p̈o		| soft, round			| onomo
-pur		| fur, pluma			| en: fur, pluma
-kon		| constructed			| de: konstruiert
-ko		| clay, dough, semi-solid	| tp: ko
-ti		| life, to live			| sux: ti
-ve		| clean, plain, natural
-he		| abundant, healthy, resistant, diverse | sux: ḫe2
-hur		| scarce, sick, narrow, short term	| sux: ur5
 
 ### Verbs
 palhuqpar	| definition				| source
@@ -256,16 +223,7 @@ r̈yr̈y    | cold, shivering
 nukalp̈a | noqalta culture
 venten  | fandom		| en: fandom
 tututu  | several separated things	| onomo
-
-### Compound
-palhuqpar	| meaning
-------------|---------------------------
-palhuqpar	| name of this language
-ke-nun		| this, here, reference from inside	Is this/kenun a dream? kenun is a sentence.
-
-### Phrases
-palhuqpar	| meaning
-------------|---------------------------
-'alo		| listen, let me tell you
-'ia			| bye
-'a hai		| hi, casual greeting
+cyle	| colourful, saturated	| tp: kule
+ły		| dull, grey, triste	| fr: triste
+řaja	| bright, light coloured	| bright, blank
+cara	| dark, intense coloured	| ga: Ciara
