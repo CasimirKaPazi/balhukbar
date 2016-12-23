@@ -16,7 +16,7 @@ Diacritics used:
  ̥  U+0325 ﾝ̥  
  ̊  U+030A ﾝ̊  
 
-Wordseparator:  
+Pause/Wordseparator:  
 ･
 
 Coda:  
@@ -25,17 +25,15 @@ Coda:
 -V ｭ̀  
 -L ｬ̀  
 -R ｮ̀  
--: ｰ  
+-ː ｰ  
 -a ｧ̊  
 -i ｨ̊  
 -u ｩ̊  
--e ｪ̊  
--o ｫ̊  
--y ｭ̊  
 
 
-Example (no meaning):  
-ﾊ̄ｬ̀ｳｯ̄ﾊ̄ｮ̀･ｻ̄ｰ･ﾈ̄ｸ̄ｺｪ̊･ﾑ̄ｧ̊ｼ̵ｭ̀･ﾊ̄ｨ̊｡
+Example:  
+ﾊ̄ｬ̀ｳｯ̄ﾊ̄ｮ̀･ｻ̄ｰ･ﾈ̄ｸ̄ｺ･ﾐｧ̊ｼ̵ｭ̀･･ﾊ̄ｨ̊｡  
+palhuqbar caa ńejuko miacij - bai.
 
 
 Hanzi can replace two mora words. Often in Chinese borrowings.
@@ -43,6 +41,7 @@ Hanzi can replace two mora words. Often in Chinese borrowings.
 吗 - maa - question  
 一 - paq - 1  
 二 - cee - 2  
+三 - loq - 3  
 六 - liu - 6  
 女 - hem̈a - feminie  
 男 - hap̈i - masculine  
