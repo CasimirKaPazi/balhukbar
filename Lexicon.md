@@ -89,7 +89,7 @@ loq		| 3						| Archaean: lot en: a lot
 kal		| 4
 p̈an		| 5
 liu		| 6						| zh: liù
-sie		| 12
+syy		| 12
 kej		| 60					| sux: gesh
 myy		| 420					| Sȷakolan: <min> /mɯ̃/
 jani	| 820					| Sȷakolan: <zȷenim> /ʑʌ̃nim/

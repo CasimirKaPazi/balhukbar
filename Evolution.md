@@ -128,4 +128,4 @@ L > l / else
 ## Dipthong shift
 
 ey > ai
-ye > ie
+ye > yy

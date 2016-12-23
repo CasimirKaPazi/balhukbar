@@ -38,7 +38,7 @@ The consonants with a double dot (p̈ m̈ v̈) are linguolabial consonants.
 They are pronounced with the tip of the tongue touching the upper lip. In [reverence videos](http://teaching.ncl.ac.uk/ipa/consonants-extra.html) by IPA online you can see them. However in balhuqpar they aren't pronounce as distinct as shown. The tongue only touches the underside of the lip and doesn't leave the mouth.
 The sound is close to /t n s/. Therefor alveolar consonants are sometime pronounced slightly retroflex.  
 
-Dipthongs are: ai au ia ua iu ie
+Dipthongs are: ai au ia ua iu
 
 <div id='Syllables'/>
 
@@ -74,7 +74,7 @@ R = n q j r l
 N = n v s r l (act syllabic)  
 V = a u i o y e  
 Vː = aa uu ii oo yy ee  
-VV = ye yo ia ai au ua (ey eo oe oy iu ui)
+VV = ai au ia ua iu
 
 
 <div id='Stress'/>
