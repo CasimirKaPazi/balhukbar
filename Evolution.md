@@ -124,3 +124,8 @@ R > r / else
 Lateral /l/ < l >  
 L > l̼ / _C[+linguolabial]  
 L > l / else  
+
+## Dipthong shift
+
+ey > ai
+ye > ie

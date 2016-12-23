@@ -1,40 +1,48 @@
 Lexicon
 =======
 
-abervations used here:
+abbreviation used here:
 gram: gramaticalization
 tlön: Tlön, Ukbar, Orbis Tertius
 tp: toki pona
 onomo: onomatopoeia/ideophone
 IPA only is given when it differs from the phonemic reading.
 
-### Interogation
+### Interjections
 palhuqpar| definition			| source
 --------|-----------------------|-------
 hai		| recognise something new
 'oq		| switch discussion/topic	|	en: OT, off topic
 mn		| think
-'n		| remember
+'n / mn	| remember
 br		| "stop it", unpleasant
 hua		| windy, change, fresh
 he		| hu?
 tv		| ach, naja, tja
 pv		| blow, uh, sigh
-'ia		|
-pai		| intensifier
+
+### Sentence final interjections
+palhuqpar| definition			| source
+--------|-----------------------|-------
+pāi		| positive exclamation
+ne		| confirmation, asking for evidential
+hono	| anticipation			| ho-na
+he		| surprise or doubt
+cymvy	| not caring about or purposefully ignoring something, frustration
 
 ### Particle/Filter/Prefixes
 palhuqpar| definition			| source
 --------|-----------------------|-------
 yro		| coloured like			| jp: -iro
 somo	| dyed/coloured with	| jp: -zomo
-teno/tem̈o	| time period				| tp: tenpo
- 	| point in time	| 
-pal/pla		| language, speech
-tu/tut		| symbol, representation
+teno	| time period				| tp: tenpo
+nun 	| point in time	| 
+pal / pla	| language, speech
+tu / tut	| symbol, representation
 nenly		| ability or potential to be or do something | zh: nénglì
 		| knowledge of, wisdom of
-vo'ey	| smell of				| na'vi: fahew
+vo'ai	| smell of				| na'vi: fahew
+jaine   | gestalt				| de: scheinen
 
 ### Directions
 palhuqpar| definition			| source
@@ -81,7 +89,7 @@ loq		| 3						| Archaean: lot en: a lot
 kal		| 4
 p̈an		| 5
 liu		| 6						| zh: liù
-sye		| 12
+sie		| 12
 kej		| 60					| sux: gesh
 myy		| 420					| Sȷakolan: <min> /mɯ̃/
 jani	| 820					| Sȷakolan: <zȷenim> /ʑʌ̃nim/
@@ -136,7 +144,7 @@ palhuqpar	| definition				| source
 'alasa		| hunt, forage, search		| tp: alasa
 'ylo		| do something using a tool	| tp: ilo
 'alo		| pay attention, get attention	| fr: alor
-'aqte/'ata	| act, do					| en: act
+'aqte / 'ata	| act, do					| en: act
 'op̈e		| open, unleash, being, start	| tp: open
 'iji		| learn, understand			| zh: jīng
 'iqla		| create, imagine, grow, build	| iblard
@@ -145,7 +153,9 @@ palhuqpar	| definition				| source
 'invita		| hide
 'ajli		| wake up					| vajlin
 'ili		| to fan out (e.g. a rope)
-'ihi/'aha	| to laugh, to be funny/silly
+'ihi / 'aha	| to laugh, to be funny/silly
+'ajap̈a		| swim, play in water
+'ututu		| to saparate, make smaller chuncks, sort, decide
 
 ### Noun/Adjective
 palhuqpar	| definition				| source
@@ -188,7 +198,7 @@ tev̈ekryty	| tensional integrity	| Buckminster Fuller: Tensegrity
 vajlin		| waking life
 cucucu		| bird sound				| onomo
 p̈acip̈aci	| hands clapping			| onomo, jp: pachipachi
-pvapva/puvapuva	| soft						| onomo, jp: fuwafuwa
+pvapva / puvapuva	| soft						| onomo, jp: fuwafuwa
 p̈atan		| heartbeat, excited, in love	| onomo, Edit Piaf: Padam
 p̈yryl		| sparkling					| onomo, tr: pırıl pırıl
 ńipana		| the ever unchanging		| nirvana
@@ -205,8 +215,8 @@ momo		| listen, show interest in other persons	| Michael Ende: Momo
 sonai		| mind, knowledge, idea		| tp: sona
 tatiagaj	| hypnagogic, state between dream and wake	| northern sami: adjágas
 kała		| thin brittle layer/cover	| northern sami: skárta
-huahua/huabv	| windy						| hua + bv
-solri/sunri	| sunny, shine, bright, star	| lojban: solri sux: šún
+huahua / huabv	| windy						| hua + bv
+solri / sunri	| sunny, shine, bright, star	| lojban: solri sux: šún
 harvl		| thing of the size a human can handle		| de: arm/heugabel voll
 lailai		| calm
 řońir		| dublicated object by forgetting about it	| tlön: hron, hronir
@@ -229,7 +239,7 @@ p̈atuq	| closing of an book, puting something down
 jinknu	| possible for everyone to know
 soqkoq	| shapeless	| Shoggoth
 mnturu  | liquid
-v̈ip̈asana| clear sighted, not valuing, not judging
+v̈ip̈asana	| clear sighted, not valuing, not judging
 vuavij  | vague, blurred
 noloro  | communicating, linked, bound together, connected	| no + 'oloro
 mamujin | experiencing a dream, dream sight, inner vision	| sux: ma-nu "dream" zh: jiàn
@@ -242,6 +252,10 @@ cauhuli | herbal, essential oils	| zh: cǎo sux: ùli
 tymy(ny)| child-parent relation	| sux: dumu zh: nǚ
 maina   | partner, compainon, equal	| sux: mana mína
 lipir   | old, ancient, traditional, used, worn	| sux: libir
+r̈yr̈y    | cold, shivering
+nukalp̈a | noqalta culture
+venten  | fandom		| en: fandom
+tututu  | several separated things	| onomo
 
 ### Compound
 palhuqpar	| meaning
