@@ -24,6 +24,7 @@ Grammar
 	3.2. [Filters and Comments](#Filters-Comments)  
 	3.3. [Questions](#Questions)  
 	3.4. [Genitive](#Genitive)  
+	3.5. [Sentence final particles](#Sentence-final)  
 4. [Numeral System](#Numeral-System)  
 
 <div id='Word-Classes'/>
@@ -424,6 +425,17 @@ Possession has three different forms analogue to the tenses (presence, absence, 
 * The contineous absence uses **ńo** just like the absence.
 
 Inalienable possession (almost only body parts) is always in the presence. Even if the person talked about is absent.
+
+
+<div id='Sentence final'/>
+
+### Sentence final particles
+
+* *pāi* - positive exclamation (EXCLAM)
+* *ne* - confirmation, asking for evidential
+* *honō* - anticipation
+* *he* - surprise or doubt
+* *cymvy* - not caring about or purposefully ignoring something, frustration
 
 
 <div id='Numeral-System'/>
