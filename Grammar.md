@@ -6,9 +6,9 @@ Grammar
 	1.1. [Nouns](#Nouns)  
 	1.2. [Action words](#Actions)  
 	1.3. [Names](#Names)  
-	1.4. Particles
-	1.5. Interrogations
-	1.6. Numbers
+	1.4. Particles  
+	1.5. Interjections  
+	1.6. Numbers  
 2. [Morphology](#Morphology)  
 	2.1. [Copula](#Copula)  
 		2.1.1. [Tense and Evidence](#Tense-Evidence)  
@@ -21,11 +21,10 @@ Grammar
 	2.6. [Abbreviation](#Abbreviation)  
 3. [Syntax](#Syntax)  
 	3.1. [Phrases](#Phrases)  
-	3.2. [Filters](#Filters)  
+	3.2. [Filters and Comments](#Filters-Comments)  
 	3.3. [Questions](#Questions)  
 	3.4. [Genitive](#Genitive)  
 4. [Numeral System](#Numeral-System)  
-
 
 <div id='Word-Classes'/>
 
@@ -34,7 +33,7 @@ Word classes
 
 Word are grouped within two bigger word classes:
 * Grammatical particles
-  * Interrogations
+  * Interjections
   * Pronouns
   * Relationals
   * Grammatical markers
@@ -63,7 +62,7 @@ It is often possible to tell which class a word belongs to by looking at it. Onl
   They start with a consonant other than the glottal stop.  
   Example: cyqte, tatake
 
-Interrogations, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactically and morphologically just like other adjectives and are therefore a huge resource for new lexical material.
+Interjections, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactically and morphologically just like other adjectives and are therefore a huge resource for new lexical material.
 
 
 <div id='Nouns'/>
@@ -153,9 +152,12 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 |            | hrs past       | laa |
 |            | neg            | vir |
 | Question   | Q              | maa |
+| Declaration|                | nun |
 
 "Negation" van/vir is used to express lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
+
+Declaration is used for self fullfilling statements, as in "I thank you."
 
 <div id='Conversation'/>
 
@@ -206,12 +208,12 @@ Go there to read more about the concept, idea and functions of relationals.
 
 |                    | bal'ukbar | Kēlen | example |
 | ------------------ | --------- | ----- | ------- |
-| existence          | la        | LA/PA | la moon la stars |
-| change/states      | hī        | NI    | hi child hi teen hi adult |
-| association        | no/ńo     | PA    | no house no tree no street |
-| direct causation   | cau       | NI    | kia falling kia breaking |
-| systemic causation | jyn       | NI    | jyn smoking jyn cancer |
-| movement           | sun       | -     | sun here sun there |
+| existence          | la        | LA/PA | la moon - la stars |
+| change/states      | hī        | NI    | child hi teen hi adult |
+| association        | no/ńo     | PA    | house no tree no street |
+| direct causation   | kia       | NI    | falling kia breaking |
+| systemic causation | se        | NI    | smoking se cancer |
+| movement           | cor       | -     | thing cor direction |
 
 For association also see "Genitive".
 
@@ -247,7 +249,7 @@ In this case ke and jem̈e revere to the same person(s), while kem̈e revers to 
 
 ### Affixes
 
--nā -va and -p̈e are suffixes that can be added to adjectives and action words.  
+-nā -va and -p̈e are suffixes that can be added to content words.  
 They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
 
 * nā - attraction (LIKE)
@@ -258,18 +260,18 @@ Quotative variants are nūa, vua, p̈ye.
 
 Example:
 'ai - [verb] to act emotional, to experience emotions  
-na'ai - to like, to act nice  
-p̈e'ai - to dislike, to be mean  
-va'ai - to not give a fuck  
+'aina - to like, to act nice  
+'aip̈e - to dislike, to be mean  
+'aiva - to not give a fuck  
 
 vo- and ńi- can in a similar way be used to show the direction of a verb.  
-* vo - towards the speaker
-* ńi - away from the speaker, towards someone/something else
+* vo - towards the speaker, venitive (VEN)
+* ńi - away from the speaker, towards someone/something else, andative (AND)
 
 Quotative variants are voj, ńin.
 
 **ńi'aina ne?**  
-OUTWARDS-act.emotional-LIKE do.you.know.Q  
+AND.emotional-LIKE know.Q  
 "Do you know I like you?"  
 
 
@@ -306,8 +308,8 @@ CNV > CVCNV
 To widen the meaning, blurring it, or adding uncertainty.
 
 In numbers, using the bases:  
-sye 12  
-syesye 6 to 12  
+syy 12  
+syysyy 6 to 12  
 kej 60  
 kejkej 12 to 60  
 
@@ -366,17 +368,29 @@ Within a phrase all elements are interchangeable while the meaning remains the s
 They are either ordered by focus, or just uttered in the way they entered the speakers mind. The better something is already known in the discourse, the less important it is and therefor moves to the end and can often be omitted. New and important information moves to the front.
 
 
-<div id='Filters'/>
+<div id='Filters-Comments'/>
 
-### Filters
+### Filters and Comments
 
+Every element of speech can serve the purposes of either filter, content or comment. While boundaries to content are blurred, the difference between filter and comment is considered important. Filters always precceed a phrase or word and reduce the expressed meaning, while comments follow a phrase or word and add additional information to it.
+
+
+**Filter**  
 Every word can serve as a filter for a list.  
-Structure is f(l) where f() is the filter and l the list.  
+Structure is f(L) where f() is the filter and L the list.  
 A filter reduces the broad/atmospheric meaning of a word to a more specific one.  
-No list as input is the same as every possible input.  
+No list as input is the same as every possible input.
+
 **palhuqpar**  
 pal(huqpar)  
 Every language aspect (=pal) of huqpar.  
+
+
+**Comment**  
+
+**palhuqparp̈e**  
+palhuqpar-p̈e
+I don't like palhuqpar
 
 
 <div id='Questions'/>
@@ -409,7 +423,7 @@ Possession has three different forms analogue to the tenses (presence, absence, 
 * In the absence of one element the particle **no** is used to connect the two.
 * The contineous absence uses **ńo** just like the absence.
 
-Inalienable possession is always in the presence (almost only body parts).
+Inalienable possession (almost only body parts) is always in the presence. Even if the person talked about is absent.
 
 
 <div id='Numeral-System'/>
@@ -447,4 +461,4 @@ The ";" marks the switch from integers to fractions. The circle constant Tau 6.2
 Example:  
 393,685,908,592,794  
 2:1:14:0:2:3:0:13:11:0:10:7:2:1:2:4:1:0:0;  
-cee-hatiq me'ej sye-cee-kusai cee-piniu loq-lymo sye-paq-cev̈e liu-kal-paq-rup̈a liu-kal-ńiru liu-paq-ryvo cee-jańi myy cee-kej kal-sye liu  
+cee-hatiq me'ej syy-cee-kusai cee-piniu loq-lymo syy-paq-cev̈e liu-kal-paq-rup̈a liu-kal-ńiru liu-paq-ryvo cee-jańi myy cee-kej kal-syy liu  
