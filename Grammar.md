@@ -26,6 +26,7 @@ Grammar
 	3.4. [Genitive](#Genitive)  
 	3.5. [Sentence final particles](#Sentence-final)  
 4. [Numeral System](#Numeral-System)  
+5. [Gestures](#Gestures)  
 
 <div id='Word-Classes'/>
 
@@ -63,7 +64,7 @@ It is often possible to tell which class a word belongs to by looking at it. Onl
   They start with a consonant other than the glottal stop.  
   Example: cyqte, tatake
 
-Interjections, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactically and morphologically just like other adjectives and are therefore a huge resource for new lexical material.
+Interjections, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactical and morphological just like other adjectives and are therefore a huge resource for new lexical material.
 
 
 <div id='Nouns'/>
@@ -97,7 +98,7 @@ Q.listener.is.topic towards.speaker-move to east like wind
 
 Action words can be derived from nouns by omitting the onset of the first and coda of the last syllable and adding a glottal stop in front.  
 The derived meaning of the action word always is the action that is necessary to create or become the noun.
-As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the english phrase indicates a state, to be pregnant is in fact an action following the above definition.
+As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the English phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
 
 <div id='Names'/>
@@ -158,7 +159,7 @@ Tense and Evidence are intervened, giving rise to a, on the large scale, tree wa
 "Negation" van/vir is used to express lack of knowledge.  
 Because it also lacks inferred knowledge, it can be translated as "I don't think so".  
 
-Declaration is used for self fullfilling statements, as in "I thank you."
+Declaration is used for self fulfilling statements, as in "I thank you."
 
 <div id='Conversation'/>
 
@@ -251,7 +252,7 @@ In this case ke and jem̈e revere to the same person(s), while kem̈e revers to 
 ### Affixes
 
 -nā -va and -p̈e are suffixes that can be added to content words.  
-They show the speakers personal judgement of the object. Only in quotes it is used for other persons perception.
+They show the speakers personal judgment of the object. Only in quotes it is used for other persons perception.
 
 * nā - attraction (LIKE)
 * va - neutral
@@ -281,7 +282,7 @@ AND.emotional-LIKE know.Q
 ### Nominal Tense-Aspect
 
 Nouns may be prefixed for tense. This tense is independent from the copula and only denotes the state of the object/property at the given time it was observed.  
-Therefor they can be translated as former- and future-. As in "Future-Buddah" when talking about someone who, in the course of the narration, will attain enlightenment.
+Therefor they can be translated as former- and future-. As in "Future-Buddha" when talking about someone who, in the course of the narration, will attain enlightenment.
 
 | past | future |
 | ---- | ------ |
@@ -350,7 +351,7 @@ CNV	> CN	word final
 (C)V¹.V²	> CV¹V²	if proper diphthong  
 (C)V¹.V²	> CV¹	if no proper diphthong  
 (C)V.C²V	> CVR	according to the manner of articulation of C² except for p and k  
-C¹V.C¹V		> C¹VV	if propper dipthong otherwise CVR  
+C¹V.C¹V		> C¹VV	if proper diphthong otherwise CVR  
 
 
 <div id='Syntax'/>
@@ -418,11 +419,11 @@ Possible answers:
 
 ### Genitive
 
-Possession has three different forms analogue to the tenses (presence, absence, contineous). However the term "Genitive" is used just for the lack of a better one. In fact the meaning is more one of a symmetrical relationship of A associated with B, where both elements are interchangeable.
+Possession has three different forms analogue to the tenses (presence, absence, continuous). However the term "Genitive" is used just for the lack of a better one. In fact the meaning is more one of a symmetrical relationship of A associated with B, where both elements are interchangeable.
 
 * In the presence the possessor and the possessed are threaten as one entity. Therefor the genitive is unmarked and resembles a normal noun phrase.
 * In the absence of one element the particle **no** is used to connect the two.
-* The contineous absence uses **ńo** just like the absence.
+* The continuous absence uses **ńo** just like the absence.
 
 Inalienable possession (almost only body parts) is always in the presence. Even if the person talked about is absent.
 
@@ -459,7 +460,7 @@ Russell Easterly, Oct 03 2001 As comment to the before mentioned series.
 
 This statement includes fractions. This means a fraction like 1/3 which in base ten is 0.333333... can be expressed as 0.02, which reads `0*1/2 + 2*1/6`. While the number 3 is represented as 11 which reads 1 * 2 + 1 * 1. In the effect expressing fractions is much easier and useful then in any fixed radix system, while expressing integers is quite harder.
 
-Now this is where it comes back to the language and it's culture. Where cultures with a standard base system (just about all cultures we know about) use mostly integers to talk about the world and the objects they find in it, the speakers of palhuqpar use both, integers and fractions. This gives rise to the divisible-indivisible distinction. For every thing that is divisible in the way that smaller parts have the same quality - e.g. water, sand, stone, wood, time, place - fractions are used. Things that change it's properties by dividing - e.g. living things, a boule, body parts, most things crafted - are revered by integers.
+Now this is where it comes back to the language and it's culture. Where cultures with a standard base system (just about all cultures we know about) use mostly integers to talk about the world and the objects they find in it, the speakers of palhuqpar use both, integers and fractions. This gives rise to the divisible-indivisible distinction. For every thing that is divisible in the way that smaller parts have the same quality - e.g. water, sand, stone, wood, time, place - fractions are used. Things that change it's properties by dividing - e.g. living things, a bowl, body parts, most things crafted - are revered by integers.
 
 Therefor to talk about the time of day for example, instead of inventing smaller units called "hours" they talk about half a day, two sixth a day, one half and one twelfth a day etc.
 
@@ -474,3 +475,25 @@ Example:
 393,685,908,592,794  
 2:1:14:0:2:3:0:13:11:0:10:7:2:1:2:4:1:0:0;  
 cee-hatiq me'ej syy-cee-kusai cee-piniu loq-lymo syy-paq-cev̈e liu-kal-paq-rup̈a liu-kal-ńiru liu-paq-ryvo cee-jańi myy cee-kej kal-syy liu  
+
+
+<div id='Gestures'/>
+
+Gestures
+--------
+
+There is a small set of formalized gestures. They are mostly used in theater. Each sign might be done with one or both hands.
+
+### Relative position
+
+According to the same rules one uses *pu* and *je-ke* the way one faces each other is important too. Both speakers facing each other or both looking away represents *pu*. While looking at looking at someone whil they look away would represent *je-ke* on their side.
+
+### Hand shapes
+
+There are only three hand shapes distinguished: Open hand, Fist, Eating hand (all finger tips meet in one spot).
+
+### Signs
+
+* Be pleased, to get a compliment: Fists touching chest, inner sides facing each other; Open hand touching chest.
+* Happy: Fist or open hand, inner side touching cheeks.
+* Thanking for a gift or a favor: Open hand, inner side up, at the hight of the mouth, small movement towards giver.
