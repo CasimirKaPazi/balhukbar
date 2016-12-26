@@ -3,10 +3,9 @@ Phonology
 
 ## Table of Contents
 1. [Phonemes](#Phonemes)  
-2. [Vowel Groups](#Vowel-Groups)  
 2. [Syllables](#Syllables)  
-4. [Stress](#Stress)
-5. [Coda](#Coda)
+3. [Stress](#Stress)
+4. [Coda](#Coda)
 
 
 <div id='Phonemes'/>
