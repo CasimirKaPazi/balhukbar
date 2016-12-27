@@ -80,23 +80,24 @@ VV = ai au ia ua iu
 
 ### Stress
 
-Stress is optional and may fall on the second mora of the word root, ignoring prefixes.
-It is realized with high pitch. In syllables with two morae this can be interpreted as rising, or falling tone.
+A foot contains three mora. Stress falls on the third mora. Foot are counted from the left. Primary stress falls onto the first foot.
 
 Examples:  
-p̈aKAla     [t̼a'ka.la]  
-p̈aTUp      [t̼a'tu.p]  
-pal-huQpar [pal.ʔu'p.par]
+p̈akala     [t̼a.ka'la]  
+p̈atup      [t̼a.tu'p]  
+palhuqpar [pal'uk.paɾ]
+tenolotatakena [tɛ.nɔ'lɔ.ta.ta'kɛ.na]
+tuqcyqtena [tup'tɕɨk.tɛ'na]
 
-Monsylabic words are generally unstressed, while some carry an inherent high tone.
+One and two moraic words are unstressed, while some carry an inherent high tone.
 Those with high tone are marked in the lexicon in normal writing this is omitted.
 
 Examples:  
 pāi [pai˦]  
 vii [ɸii]  
+nē  [nɛ˦]  
 paq [pap]  
 ńy  [ɲɨ]  
-nē  [nɛ˦]
 
 
 <div id='Coda'/>
