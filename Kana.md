@@ -7,7 +7,7 @@
 | e | ﾍ̄ | ﾍ̥ | ﾃ | ｹ | ｴ | ﾒ | ﾒ̥ | ﾈ | ﾈ̄ | ﾚ̄ | ﾚ | ｾ̄ | ﾍ | ｴ̵| ｴ̥ | ｾ | ｹ̵| ﾃ̥ | ﾚ̥ | 
 | o | ﾎ̄ | ･  | ﾄ | ｺ | ｵ | ﾓ | ･   | ﾉ | ﾉ̥ | ﾛ  | ﾛ | ｿ̵| ﾎ | ｦ  | ･   | ｿ | ｺ̥ | ﾄ̄ | ﾛ̥ | 
 | y | ﾍ̵ |ﾊ̵̥ | ﾃ̵| ｸ̵| ｵ̄ | ﾑ̄ | ﾑ̥̄ | ﾈ | ﾈ̥̄ | ﾙ̥̄ | ﾙ̥ | ｻ̥̄ | ﾊ̵| ｲ̥̄ | ｲ̵̥ | ｻ̥ | ｸ̵| ﾄ̥ | ﾚ̄ ̥ |
-
+ﾄ
 Diacritics used:  
  ̣  U+0323 ﾝ̣  
  ̄  U+0304 ﾝ̄  
@@ -20,20 +20,24 @@ Pause/Wordseparator:
 ･
 
 Coda:  
--N ﾝ̵  
--P ｯ̄  
--V ｭ̀  
--L ｬ̀  
--R ｮ̀  
+-N ﾤ  
+-P ﾧ  
+-V ﾸ  
+-L ﾩ  
+-R ﾩ̄  
 -ː ｰ  
--a ｧ̊  
--i ｨ̊  
--u ｩ̊  
+
+-a ｧ̊ ｱ  
+-i ｨ̊ ｲ  
+-u ｩ̊ ｳ  
 
 
 Example:  
-ﾊ̄ｬ̀ｳｯ̄ﾊ̄ｮ̀･ｻ̄ｰ･ﾈ̄ｸ̄ｺ･ﾐｧ̊ｼ̵ｭ̀･･ﾊ̄ｨ̊｡  
-palhuqbar caa ńejuko miacij - bai.
+ﾊ̄ﾩｳﾧﾊ̄ﾩ̄･ｻ̄ｩ̊･ﾈ̄ｸ̄ｺ･ﾐｧ̊ｼ̵ﾸ ･ ﾊ̄ｨ̊｡  
+palhuqbar cau ńejuko miacij - bai.
+
+吗･ｿ̵ﾩ̄ﾊｨ̊ ･ 吗･ｶﾩﾊｨ̊ ･ ﾉ̥･ｾ̄ｰ･ｱｰ｡  
+maa corhai - maa kalhai. ńo cee 'aa.
 
 
 Hanzi can replace two mora words. Often in Chinese borrowings.
