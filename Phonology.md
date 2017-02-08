@@ -14,13 +14,11 @@ Phonology
 
 |                   | Bilabial | Linguolabial | Alveolar | Palatal | Velar | Glottal |
 | ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
-| Plosive           | p        | t̼ (p̈)        | t        |         | k     | ʔ  (')  |
-| Nasal             | m        | n̼ (m̈)        | n        | ɲ (ń)   | [ŋ]   |         |
-| Trill             | ʙ (r̈)    |              | r        |         |       |         |
-| Affricative       |          |              | [ɾ]      | tɕ (c)  |       | Ø~h~x   |
-| Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       |         |
-| Lateral fricative |          |              | ɬ (ł)    |         |       |         |
-| Lateral           |          | [l̼]          | l        |         |       |         |
+| Plosive           | p        | t̼ (p̈)        | t        | c       | k     | ʔ  (')  |
+| Nasal             | m        | n̼ (m̈)        | n        | ɲ (ñ)   | [ŋ]   |         |
+| Trill             | ʙ (r̈)    |              | r [ɾ]    |         |       |         |
+| Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       | Ø~h~x   |
+| Lateral           |          | ɬ̼~l̼ (ł/l̈)    | l        |         |       |         |
 
 |       | Front | Central | Back  |
 | ----- |:-----:|:-------:|:-----:|
@@ -34,8 +32,8 @@ The glottal stop and h are only distinctive word initial.
 All vowels can be long. Written by doubling e.g. "cii"
 Vowel length is only distinctive in monosyllabic words.  
 The consonants with a double dot (p̈ m̈ v̈) are linguolabial consonants.
-They are pronounced with the tip of the tongue touching the upper lip. In [reverence videos](http://teaching.ncl.ac.uk/ipa/consonants-extra.html) by IPA online you can see them. However in balhuqpar they aren't pronounce as distinct as shown. The tongue only touches the underside of the lip and doesn't leave the mouth.
-The sound is close to /t n s/. Therefor alveolar consonants are sometime pronounced slightly retroflex.  
+They are pronounced with the tip of the tongue touching the upper lip. In [reverence videos](http://teaching.ncl.ac.uk/ipa/consonants-extra.html) by IPA online you can see them. However in balhuqpar they aren't pronounce as distinct as shown. The tongue only touches the underside of the lip and doesn't leave the mouth. The tongue is very relaxed and wide for [t̼ n̼ ð̼] and tense for [ɬ̼].
+Their sound is close to [t n s]. Therefor alveolar consonants are sometime pronounced slightly retroflex.  
 
 Dipthongs are: ai au ia ua iu
 
@@ -97,7 +95,7 @@ pāi [pai˦]
 vii [ɸii]  
 nē  [nɛ˦]  
 paq [pap]  
-ńy  [ɲɨ]  
+ñy  [ɲɨ]  
 
 
 <div id='Coda'/>
@@ -111,8 +109,8 @@ Coda consonants are archiphonemes and agree with the consonant that follows them
 | /P/ | p        | t̼            | t        | k       | k     | t.h     | p           |
 | /P/ | k̚       | t̼            | k̚       | p̚      | p̚    | t.h     | p̚          |
 | /N/ | m        | n̼            | n        | ɲ       | ŋ     | n.h     | m~ŋ         |
-| /R/ | r        | l̼            | r        | r       | r     | r.h     | ɾ           |
-| /L/ | l        | l̼            | l        | l       | l     | l.h     | l           |
+| /R/ | r        | ɬ̼            | r        | r       | r     | r.h     | ɾ           |
+| /L/ | l        | ɬ̼            | l        | l       | l     | l.h     | l           |
 | /V/ | v        | ð̼            | ç        | ç       | ç     | ç.h     | ç           |
 
 If a consonant is followed by a similar phonome, it results in gemiantion (e.g. sanmu [ʃamːu]).  
