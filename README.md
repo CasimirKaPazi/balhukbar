@@ -13,7 +13,7 @@ Bal'ukbar (or "Palhuqpar") is a constructed language (conlang). To be more preci
 The current plan is to develop it to a point where it is possible to start learning it.
 
 Here, have an example:  
-ﾂ･ﾏ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
+ﾂ ﾏ ｾ ｦｴﾚ̥ ﾖﾩ̄ﾅ̄ ･ ﾌｱﾌｱ｡  
 **tu ma hi voele corña - huahua**  
 [tu˦ ma hi˦ ɸɔ.ɛ'lɛ tɕɔr'ɲa hu'a.hu.a]  
 tu ma hi (vo(ele) cor(ña)) - huahua  
@@ -29,10 +29,10 @@ Structure of this documentation
 
 "[Introduction](Introduction.md)" (outdated) Gives an overview over the intentions and philosophy and what makes it special.  
 "[Phonology](Phonology.md)" Phonemes, syllable structure, stress and phonotactics.  
-"[Grammar](Grammar.md)"  
+"[Grammar](Grammar.md)" Grammar.  
 "[Diachronic](Diachronic.md)" Lists past and future changes to phonology.  
 "[Lexicon](Lexicon.md)" Lists all words not explained in the Grammar in no particular order.  
-"[Kana](Kana.md)" Writing system adapted from Japanese katakana.  
+"[Kana](Kana.md)" Writing system adapted from Japanese katakana with elements of hangul as coda.  
 
 
 License

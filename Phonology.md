@@ -80,6 +80,6 @@ Coda consonants are archiphonemes and agree with the consonant that follows them
 | /N/ | m        | n̼            | n        | ɲ       | ŋ     | m~ŋ         |
 | /R/ | r        | l̼            | r        | r       | r     | r           |
 | /L/ | l        | l̼            | l        | l       | l     | l           |
-| /F/ | v        | ð̼            | ç        | ç       | ç     || ç           |
+| /F/ | v        | ð̼            | ç        | ç       | ç     | ç           |
 
 If a coda is followed by a phoneme with the same manner of articulation, it results in gemination of the second phoneme (e.g. sanmu [ʃamːu]).  
