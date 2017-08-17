@@ -1,3 +1,8 @@
+Kana
+====
+
+Since, depending on your font, it is very likely that the diacritics will not render properly, I made a picture of how this page ideally looks like: [here](Kana.png)
+
 |     | ∅ | p | m | v | p̈ | m̈ | v̈ | ł | t | n | s | r | l | c | ñ | j | k | h |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |**i**| ｲ | ﾋ̄ | ﾐ | ｲ̄ | ﾋ̵| ﾐ̥ | ｲ̵| ﾁ̥ | ﾁ | ﾆ | ｼ | ﾘ | ﾘ̥ | ｷ̥ | ﾆ̥ | ｼ̵| ｷ | ﾋ |
@@ -11,7 +16,7 @@ Nice but unused kana:
 
 Diacritics used:  
  ̄  U+0304 ﾝ̄  
- ̶ U+0335 ﾝ̵  
+ ̵ U+0335 ﾝ̵  
  ̥  U+0325 ﾝ̥	under circle "unamaru"  
 
 Coda:  
@@ -21,7 +26,7 @@ V ﾸ
 L ﾩ  
 R ﾩ̄  
 
-Special characters:  
+Punctuation:  
 ｡	stop  
 ､	comma  
 ･	pause  
@@ -29,5 +34,5 @@ Special characters:
 
 
 Example:  
-ﾊ̄ﾩｳﾧﾊ̄ﾩ̄  ｶ̄ｳ  ﾈ̄ｽ̵ｺ  ﾐｱｷ̥ﾸ ･ ﾊ̄ｲ｡  
-palhuqbar cau ñejuko miacij - bai.
+ﾊ̥ﾩｳﾧﾊ̥ﾩ̄  ｶ̄ｳ  ﾈ̄ｽ̵ｺ  ﾐｱｷ̥ﾸ ･ ﾊ̥ｲ｡  
+palhuqpar cau ñejuko miacij - pai.
