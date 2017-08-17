@@ -3,21 +3,20 @@
 bal'ukbar constructive grammar
 ==============================
 
-Version 0.2 (This is still a work in progress and not usable. Also these documents are by no means a formal description of the grammar, instead they are a dense definition of the language. There are large portions missing, outdated, wrong and whatever.)
+Version 0.2 (This is still a work in progress and not usable. Also this document is by no means a formal description of the grammar, instead it's a dense definition of the language. There are large portions missing, outdated, wrong and whatever.)
 
 
 Language of Ukbar
 -----------------
 
 Bal'ukbar (or "Palhuqpar") is a constructed language (conlang). To be more precise an engineered language.  
-This means I am inventing (or mostly remixing) a speakable language and its associated culture.  
-My current plan is to develop it to a point where I can start learning it.
+The current plan is to develop it to a point where it is possible to start learning it.
 
 Here, have an example:  
 ﾂ･ﾏｰ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
 **tu maa hi vo'ele corńa - huahua**  
 [tu˦ maː i˦ ɸɔ.ʔɛ'lɛ tɕɔr'ɲa u'a.ua]  
-tu maa hi (vo('ele) cor(ńa)) - (huahua)  
+tu maa hi (vo('ele) cor(ńa)) - huahua  
 listener.is.topic Q change towards.speaker-move to east windy  
 "Will you come east to me, fast like the wind?"  
 
@@ -29,11 +28,11 @@ Structure of this documentation
 -------------------------------
 
 "[Introduction](Introduction.md)" gives an overview over the intentions and philosophy and what makes it special.  
-"[Phonology](Phonology.md)" Phonemes, syllable structure, stress and phonotactics.
+"[Phonology](Phonology.md)" Phonemes, syllable structure, stress and phonotactics.  
 "[Grammar](Grammar.md)"  
-"[Diachronic](Diachronic.md)" Lists past and future changes to phonology.
-"[Lexicon](Lexicon.md)" Lists all words not explained in the Grammar in no particular order.
-"[Kana](Kana.md)" Writing system adapted from Japanese katakana.
+"[Diachronic](Diachronic.md)" Lists past and future changes to phonology.  
+"[Lexicon](Lexicon.md)" Lists all words not explained in the Grammar in no particular order.  
+"[Kana](Kana.md)" Writing system adapted from Japanese katakana.  
 
 
 License
