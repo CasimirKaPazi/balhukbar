@@ -54,16 +54,16 @@ Word are grouped within two bigger word classes:
     * Structural
   * (Personal Names)
 
-It is often possible to tell which class a word belongs to by looking at it. Only action word start with a glottal stop. When an action word is in the process of being grammaticalized the glottal stop might turn into h. e.g. 'alo ("pay attention") > halo (VOCATIVE).
+It is often possible to tell which class a word belongs to by looking at it. Only action word start with a glottal stop. When an action word is in the process of being grammaticalized the glottal stop might turn into h. e.g. alo ("pay attention") > halo (VOCATIVE).
 
 * Grammatical particles are only one or two mora long.  
   They start with a consonant other than the glottal stop.  
   Example: pu, puku
 * Actions begin with a glottal stop and end in an open syllable. They are at least two mora long.  
-  Example: 'ai, 'ujpane
+  Example: ai, ujpane
 * Content words are at least three mora long.  
   They start with a consonant other than the glottal stop.  
-  Example: cyqte, tatake
+  Example: ciqte, tatake
 
 Interjections, onomatopoeia and ideophones are open classes and it is very common to make them up on the fly as needed. They all function syntactical and morphological just like other adjectives and are therefore a huge resource for new lexical material.
 
@@ -89,24 +89,19 @@ Those categories are only semantically.
 
 Action words only describe actions that result in one state at a time changing into another state in a later time.
 Therefor words like "move, say, play, think" are possible, but "be, have, sit, own, relate, mean, display" are not.
-They are more likely to take the prefixes **vo**- and **ńi**- to express the action is directed. They can however all the same affixes as nouns. Syntactically the also behave just like nouns. The main difference is in the semantic meaning.
+They are more likely to take the prefixes **vo**- and **ñi**- to express the action is directed. They can however all the same affixes as nouns. Syntactically the also behave just like nouns. The main difference is in the semantic meaning.
 
-**malan vo'ele corńa huahua**  
-malan (vo('ele) cor(ńa) huahua)  
+**malan voele corña huahua**  
+malan (vo(ele) cor(ña) huahua)  
 Q.listener.is.topic towards.speaker-move to east like wind  
 "Will you go east to me, fast like the wind?"  
-(Sidenote: There are no real pronouns in this sentence.)
-
-Action words can be derived from nouns by omitting the onset of the first and coda of the last syllable and adding a glottal stop in front.  
-The derived meaning of the action word always is the action that is necessary to create or become the noun.
-As an example the word **m̈am̈a** "woman, mother" turns into **'am̈a** "to become a woman, to be pregnant". While the English phrase indicates a state, to be pregnant is in fact an action following the above definition.
 
 
 <div id='Names'/>
 
 ### Personal names
 
-Personal names can form nicknames by reduplicating the last syllable. ('am̈apery > ryry)  
+Personal names can form nicknames by reduplicating the last syllable. (am̈aperi > riri)  
 The distinction between full names and nicknames is the same as je-ke and pu.
 Usually speakers describe persons just like they describe objects in the world.
 The personal name is something mostly used between people that know each other closer.
@@ -125,7 +120,7 @@ Morphology
 
 It is used in the form:
 
-    A conversation tense relation B
+    conversation A tense relation B
 
 The copula consists of three parts.
 
@@ -139,22 +134,22 @@ A and B are noun phrases. Every part is optional. Except that one can not have A
 
 ### Tense and Evidence
 
-Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*.  
+Tense and Evidence are intervened, giving rise to a, on the large scale, tree way distinction: *presence*, *absence*, *continuous*. (compare tense: "present, past, near past" location: "here, away, near by")  
 * Presence: Everything in the direct experience in the present moment. It therefor is both present tense and direct evidence. The music I hear right now falls into this tense-evidence.
 * Absence: The counterpart to presence in the way that it includes everything what is in the past or outside of the perception. It might be the contents of a story you heard as a child (hearsay) or hearing the story as a child (past). Absence can further be marked for the concrete evidence: Own past experience, hearsay and inference.
 * Continuous: Because the presence is so brief and limited a lot of the things you would talk about that happened "just now" would fall into the absence. For this the Connected experience is used whenever you could tell a continuous story from that past experience to the present. As abbreviation "CONT" is used in this document. The defining time of this tense is when the evidence was made, not when the event it reveres to. e.g. One can use "lia" shortly after hearing a years old story.
 
 | Perception | evidence-tense | aux |
 | ---------- | -------------- | --- |
-| Presence   | exp present    | cuu |
+| Presence   | exp present    | cu  |
 | Negation   | neg present    | van |
-| Continuous | exp near-past  | caa |
+| Continuous | exp near-past  | ca  |
 |            | hrs near-past  | lia |
-| Absence    | exp past       | cii |
-|            | inf            | ruu |
-|            | hrs past       | laa |
+| Absence    | exp past       | ci  |
+|            | inf            | ru  |
+|            | hrs past       | la  |
 |            | neg            | vir |
-| Question   | Q              | maa |
+| Question   | Q              | ma  |
 | Declaration|                | nun |
 
 "Negation" van/vir is used to express lack of knowledge.  
@@ -188,17 +183,17 @@ This system is inspired by an idea Kirble developed for the conlang "Cavelan" an
   **haso**
 
 Introduce  
-**halo maa tenpo**  
+**halo ma tenpo**  
 VOC Q.NONPAST time  
 "Excuse me, what time is it?" or "Hey, what time?"
 
 Listen  
-**ha caa tenpo ńy cee**  
+**ha ca tenpo ñi ce**  
 LISTEN EXP.CONT time fraction two  
-"Let me tell you, it seemed like midnight." (ńy cee -> half a day)
+"Let me tell you, it seemed like midnight." (ñy cee -> half a day)
 
 Topic  
-**tu maa 'enuma**  
+**tu ma enuma**  
 TOP.2 Q.PAST make.stuff.up  
 "Have you made this up?"
 
@@ -213,7 +208,7 @@ Go there to read more about the concept, idea and functions of relationals.
 | ------------------ | --------- | ----- | ------- |
 | existence          | la        | LA/PA | la moon - la stars |
 | change/states      | hī        | NI    | child hi teen hi adult |
-| association        | no/ńo     | PA    | house no tree no street |
+| association        | no/ño     | PA    | house no tree no street |
 | direct causation   | kia       | NI    | falling kia breaking |
 | systemic causation | se        | NI    | smoking se cancer |
 | movement           | cor       | -     | thing cor direction |
@@ -229,12 +224,12 @@ Persons are specified by clusivity.
 
 |              | default | quotative |
 | ------------ | ------- | --------- |
-| listener-exc | je/jeky | jem̈e      |
+| listener-exc | je/jeki | jem̈e      |
 | other-exc    | pu/puku | pumu      |
-| speaker-exc  | ke/kecy | gem̈e      |
-| any/everyone | cyne    | -         |
+| speaker-exc  | ke/keci | gem̈e      |
+| any/everyone | cine    | -         |
 
-They don't distinguish by number. So **je** can be either "I" or "we.exclusive", **ke** is "you, he, she, it, they, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only **bu**, depending on context. **bu** is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
+They don't distinguish by number. So **je** can be either "I" or "we.exclusive", **ke** is "you, he, she, it, they, that..." So anything but excluding one self. Talking to each other the speaker would either use those two pronouns, or only **pu**, depending on context. **pu** is in the middle of the two, it can mean any of "we.incl, I, you" and is used when the speakers are in the same position.
 
 As an example; If I want to sit down in the bus but someone has their bag on the seat I would ask "Can I (=je) sit there (=ke)? Can you (=ke) take the bag away?" Because the person is sitting and I don't have a seat we are not in the same position and therefor use je-ke. When I then sit down we will continue talking using bu. bu also serves the function the English "one" has. Because this is very vague the language has some further tools to indicate who is meant. For one you can add adjectives to pronouns e.g. ke-sitting, and ke-baglike. It is also possible to mark the auxiliary verb to whether the listener is the topic of the sentence or not. See: Conversation.
 
@@ -242,7 +237,7 @@ Pronouns are rarely use independently. Because they are so ambiguous the mostly 
 
 Quotative pronouns are used as well in direct quotes as in indirect speech. In most cases the two therefore turn out to be the same.
 
-**cii ke 'em̈e - jem̈e cau kem̈e ho-'ihi.**  
+**ci ke em̈e - jem̈e cau kem̈e hoihi.**  
 EXP.PST ke talk je.QUOT CAUSE ke.QUOT FUT.laugh  
 "They said we will make you laugh."  
 In this case ke and jem̈e revere to the same person(s), while kem̈e revers to someone else.
@@ -259,21 +254,21 @@ They show the speakers personal judgment of the object. Only in quotes it is use
 * va - neutral
 * p̈e - aversion (evitiative case: EVIT)
 
-Quotative variants are nūa, vua, p̈ye.
+Quotative variants are nūa, vua, p̈ie.
 
 Example:
-'ai - [verb] to act emotional, to experience emotions  
-'aina - to like, to act nice  
-'aip̈e - to dislike, to be mean  
-'aiva - to not give a fuck  
+ai - [verb] to act emotional, to experience emotions  
+aina - to like, to act nice  
+aip̈e - to dislike, to be mean  
+aiva - to not give a fuck  
 
-vo- and ńi- can in a similar way be used to show the direction of a verb.  
+vo- and ñi- can in a similar way be used to show the direction of a verb.  
 * vo - towards the speaker, venitive (VEN)
-* ńi - away from the speaker, towards someone/something else, andative (AND)
+* ñi - away from the speaker, towards someone/something else, andative (AND)
 
-Quotative variants are voj, ńin.
+Quotative variants are voj, ñin.
 
-**ńi'aina ne?**  
+**ñiaina ne?**  
 AND.emotional-LIKE know.Q  
 "Do you know I like you?"  
 
@@ -303,7 +298,6 @@ Used to express totality, precision, certainty.
 Used to form proper nouns out of short roots. Which is considered to be the same as above.  
 CV > CVCV  
 CVR > CVCVR  
-CV¹V² > CV¹CV¹CV²  
 CNV > CVCNV  
 
 **Full**
@@ -311,8 +305,8 @@ CNV > CVCNV
 To widen the meaning, blurring it, or adding uncertainty.
 
 In numbers, using the bases:  
-syy 12  
-syysyy 6 to 12  
+sie 12  
+siesie 6 to 12  
 kej 60  
 kejkej 12 to 60  
 
@@ -328,7 +322,7 @@ Nouns have no number, in best case they can be viewed as plural by default.
 It is possible to indicate that only one object is revered using a demonstrative and the number one.
 However, it is rarely used and instead recommended to thread nouns as numberless adjectives.
 
-**maa ke paq jen**  
+**ma ke paq jen**  
 Q DEM one what  
 "What is this one thing?"
 
@@ -342,17 +336,10 @@ Each morpheme gets reduce on it's own. Two only merge when both are reduced to o
 For each iteration the reduction happens first per syllable and then merging those.  
 
 **Per syllable**  
-(C)Vː	> CV  
-(C)V¹V²	> CV¹  
+CV	> CV  
+V	> Ø  
 CVR	> CV  
-CNV	> CV	inside words  
-CNV	> CN	word final  
-
-**Merging**  
-(C)V¹.V²	> CV¹V²	if proper diphthong  
-(C)V¹.V²	> CV¹	if no proper diphthong  
-(C)V.C²V	> CVR	according to the manner of articulation of C² except for p and k  
-C¹V.C¹V		> C¹VV	if proper diphthong otherwise CVR  
+CNV	> CV
 
 
 <div id='Syntax'/>
@@ -418,18 +405,18 @@ Pauses structure a sentence into a hierarchy of lists. Each list is defined by i
 
 **Asking for particular information**  
 jen = insito question word  
-**jen 'aqte**  
+**jen aqte**  
 "What/Who acted?"  
 
 **Yes/No question**  
-**ke maa 'ai**  
+**ke ma ai**  
 DEM Q-NONPAST experience.emotions  
 "Are you (acting) emotional?"  
 Possible answers:  
 * Confirm information: "cu" - EXP.NONPAST  
 * Correct information: "ke cu lailai" 1 EXP.NONPAST calm  
-* Lack of information: "maa (pye)" Q.NONPAST (previous statement)  
-* Negation: "van 'ai"  
+* Lack of information: "ma (pye)" Q.NONPAST (previous statement)  
+* Negation: "van ai"  
 
 
 <div id='Genitive'/>
@@ -440,7 +427,7 @@ Possession has three different forms analogue to the tenses (presence, absence, 
 
 * In the presence the possessor and the possessed are threaten as one entity. Therefor the genitive is unmarked and resembles a normal noun phrase.
 * In the absence of one element the particle **no** is used to connect the two.
-* The continuous absence uses **ńo** just like the absence.
+* The continuous absence uses **ño** just like the absence.
 
 Inalienable possession (almost only body parts) is always in the presence. Even if the person talked about is absent.
 
@@ -453,7 +440,7 @@ Inalienable possession (almost only body parts) is always in the presence. Even 
 * *ne* - confirmation, asking for evidential
 * *honō* - anticipation
 * *he* - surprise or doubt
-* *cymvy* - not caring about or purposefully ignoring something, frustration
+* *cimvi* - not caring about or purposefully ignoring something, frustration
 
 
 <div id='Numeral-System'/>
@@ -491,7 +478,7 @@ The ";" marks the switch from integers to fractions. The circle constant Tau 6.2
 Example:  
 393,685,908,592,794  
 2:1:14:0:2:3:0:13:11:0:10:7:2:1:2:4:1:0:0;  
-cee-hatiq me'ej syy-cee-kusai cee-piniu loq-lymo syy-paq-cev̈e liu-kal-paq-rup̈a liu-kal-ńiru liu-paq-ryvo cee-jańi myy cee-kej kal-syy liu  
+ce-hatiq meej sie-ce-kusai ce-p̈iñu loq-limo sie-paq-cev̈e liu-p̈an-rup̈a liu-kal-ñiru liu-paq-rivo ce-jañi mie ce-kej kal-sie liu  
 
 
 <div id='Gestures'/>
@@ -503,14 +490,14 @@ There is a small set of formalized gestures. They are mostly used in theater. Ea
 
 ### Relative position
 
-According to the same rules one uses *pu* and *je-ke* the way one faces each other is important too. Both speakers facing each other or both looking away represents *pu*. While looking at looking at someone whil they look away would represent *je-ke* on their side.
+According to the same rules one uses *pu* and *je-ke* the way one faces each other is important too. Both speakers facing each other or both looking away represents *pu*. While looking at someone while they look away would represent *je-ke* on their side.
 
 ### Hand shapes
 
-There are only three hand shapes distinguished: Open hand, Fist, Eating hand (all finger tips meet in one spot).
+There three hand shapes are distinguished: Open hand, Fist, Eating hand (all finger tips meet in one spot).
 
 ### Signs
 
 * Be pleased, to get a compliment: Fists touching chest, inner sides facing each other; Open hand touching chest.
 * Happy: Fist or open hand, inner side touching cheeks.
-* Thanking for a gift or a favor: Open hand, inner side up, at the hight of the mouth, small movement towards giver.
+* Thanking for a gift or a favor: Open hand, inner side up, at the height of the mouth, small movement towards giver.

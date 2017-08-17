@@ -1,5 +1,7 @@
-Evolution
-=========
+Diachronic changes
+==================
+
+Note that these changes aren't always naturalistic and often lack an environment to occur in.
 
 # Changes 0.1 > 0.2
 
@@ -66,10 +68,10 @@ pʰ > t̼ / _U
 m > n̼ / U_U  
 ɸ, s > ð̼ / U_U  
 pʰ > p (loose the remains of aspiration)  
-mp > n̼d̼ / _U
-m > n̼ / #_UC[+linguolabial]
-p > t̼ / #_UC[+linguolabial]
-ɸ, s > ð̼ / #_UC[+linguolabial]
+mp > n̼d̼ / _U  
+m > n̼ / #_UC[+linguolabial]  
+p > t̼ / #_UC[+linguolabial]  
+ɸ, s > ð̼ / #_UC[+linguolabial]  
 r > ʙ / #_UC[+linguolabial]
 
 ## Turn codas into archiphonemes
@@ -125,7 +127,27 @@ Lateral /l/ < l >
 L > l̼ / _C[+linguolabial]  
 L > l / else  
 
-## Dipthong shift
 
-ey > ai
-ye > yy
+# Changes 0.2 > 0.3
+
+## Palatal affricative to stop
+
+tɕ > c
+
+## ɬ and l̼ merge
+
+ɬ > l /_O  
+ɬ > ɬ̼ > l̼
+
+## Lose /ɨ ʔ ʙ/ and length distinction in vowels
+
+ɨː > ɨɛ > iɛ
+V: > V
+ɨ > u /_O
+ɨ > i / else
+
+ʙ > p /#_
+ʙ > ɸ
+
+ʔ > Ø
+Diphthongs get reanalyzed as separate vowels. Therefor syllable structure becomes (C)V(C).

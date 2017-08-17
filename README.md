@@ -13,10 +13,10 @@ Bal'ukbar (or "Palhuqpar") is a constructed language (conlang). To be more preci
 The current plan is to develop it to a point where it is possible to start learning it.
 
 Here, have an example:  
-ﾂ･ﾏｰ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
-**tu maa hi vo'ele corńa - huahua**  
-[tu˦ maː i˦ ɸɔ.ʔɛ'lɛ tɕɔr'ɲa u'a.ua]  
-tu maa hi (vo('ele) cor(ńa)) - huahua  
+ﾂ･ﾏ･ｾ･ｦｴﾚ̥･ｿ̵ｮ̀･ﾅ̅ ･ ﾌｧ̊ﾌｧ̊｡  
+**tu ma hi voele corña - huahua**  
+[tu˦ ma hi˦ ɸɔ.ɛ'lɛ tɕɔr'ɲa hu'a.hu.a]  
+tu ma hi (vo(ele) cor(ña)) - huahua  
 listener.is.topic Q change towards.speaker-move to east windy  
 "Will you come east to me, fast like the wind?"  
 
@@ -27,7 +27,7 @@ In general every element of a sentence is optional. That is, it can be omitted w
 Structure of this documentation
 -------------------------------
 
-"[Introduction](Introduction.md)" gives an overview over the intentions and philosophy and what makes it special.  
+"[Introduction](Introduction.md)" (outdated) Gives an overview over the intentions and philosophy and what makes it special.  
 "[Phonology](Phonology.md)" Phonemes, syllable structure, stress and phonotactics.  
 "[Grammar](Grammar.md)"  
 "[Diachronic](Diachronic.md)" Lists past and future changes to phonology.  
